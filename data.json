@@ -1,0 +1,274 @@
+{
+    "contents": [
+        {
+            "name": "Android Geliştiriciliği",
+            "imageUrl": "https://raw.githubusercontent.com/Cann2000/api/main/pictures/android.png"
+        },
+        {
+            "name": "Oyun Geliştiriciliği",
+            "imageUrl": "https://raw.githubusercontent.com/Cann2000/api/main/pictures/game.png"
+        },
+        {
+            "name": "Web Geliştiriciliği",
+            "imageUrl": "https://raw.githubusercontent.com/Cann2000/api/main/pictures/web.png"
+        }
+    ],
+    "android": {
+        "languages": [
+            {
+                "name": "Kotlin & Java",
+                "info": "JetBrains şirketi tarafından statik olarak yazılmış, modern bir programlama olan Kotlin, Google tarafından 2017 yılında resmi olarak kabul edilmiştir. Java ile tamamen uyumlu çalışacak şekilde tasarlanmıştır. Java’dan daha iyi kod yazabilen ve güvenliği sorunsuz olan bir programlama dili tasarlamak isteyen mühendisler, Kotlin’i tasarlamıştır. ",
+                "projects": "Dünyaca bilinen ve son derece popüler olan birçok büyük şirket de Kotlin programlama dilini kullanmaktadır. Netflix, Uber, Trello, Google, Tinder, Airbnb, Slack, Corda, Pinterest bunlardan yalnızca birkaçıdır.",
+                "imageUrl": "https://raw.githubusercontent.com/Cann2000/api/main/pictures/kotlin.png",
+                "library": [
+                    "ANDROID JETPACK -> Android uygulama geliştirmeyi kolaylaştıran Google tarafından oluşturulan bir kütüphane koleksiyonudur.",
+                    "RETROFIT -> RESTful API'larla etkileşimde bulunmak için kullanılan bir HTTP istemcisi kütüphanesidir.",
+                    "OKHTTP ->  HTTP istekleri göndermek ve almak için kullanılan hızlı ve güçlü bir kütüphanedir.",
+                    "GLIDE & PICASSO -> Android uygulamalarında görüntüleri işlemek için kullanılan popüler resim işleme kütüphaneleridir.",
+                    "ROOM -> Android uygulamaları için yerel SQLite veritabanı işlemlerini basitleştiren bir ORM kütüphanesidir.",
+                    "FIREBASE -> Google'ın sunucu tarafı altyapısını ve çeşitli hizmetleri içeren bulut tabanlı bir geliştirme platformudur.",
+                    "DAGGER VEYA HILT -> Bağımlılık enjeksiyonu için kullanılan kütüphanelerdir. Uygulama bileşenlerini yönetmeye yardımcı olurlar.",
+                    "RXJAVA VEYA KOTLIN COROUTINES -> Asenkron işlemleri yönetmek ve reaktif programlama prensiplerini uygulamak için kullanılan kütüphanelerdir.",
+                    "JUNIT VE ESPRESSO -> Android uygulama testleri için kullanılan popüler test kütüphaneleridir.",
+                    "PROGUARD VEYA R8 -> Android uygulamalarını küçültmek, optimize etmek ve güvenli hale getirmek için kullanılan araçlardır. ProGuard daha önce yaygın olarak kullanılmıştır, ancak R8 artık daha yaygın olarak tercih edilen bir araçtır."
+                ]
+            },
+            {
+                "name": "Flutter",
+                "info": "Flutter, iOS, Android ve Windows için platformlar arası uygulamalar oluşturmak için kullanılabilen sağlam bir mobil uygulama geliştirme çerçevesidir. Google’ın Dart programlama dilini kullanır ve kendi grafik kütüphanesi ve malzeme tasarımıyla birlikte gelir, bu da daha hızlı uygulama geliştirme ve daha göz alıcı bir ürün elde etmenizi sağlar.",
+                "projects": "Örneğin, eBay’in ana ürünlerinden biri olan eBay Motors, Flutter ile oluşturulmuştur. Kullanıcılar bu uygulamayı kullanarak araç alıp satabilir ve sadece birkaç dokunuşla tekliflere göz atabilir, reklam yayınlayabilir ve beğendikleri teklifler için teklif verebilir.",
+                "imageUrl": "https://raw.githubusercontent.com/Cann2000/api/main/pictures/flutter.png",
+                "library": [
+                    "Flutter Bloc -> Flutter uygulamalarınız için durum yönetimi ve olay yönetimi için kullanılan bir kütüphane.",
+                    "Flutter Redux -> Redux mimarisi ile Flutter uygulamalarını yönetmek için kullanılır. Uygulama durumunu merkezi bir depoda saklar.",
+                    "Flutter Firebase -> Firebase hizmetlerini Flutter uygulamalarına entegre etmek için kullanılır. Oturum açma, veritabanı, depolama ve diğer Firebase özelliklerini kullanmanıza olanak tanır.",
+                    "Flutter Chart -> Grafik ve grafikler oluşturmak için kullanılır. Verileri çeşitli grafik türlerine dönüştürmek için kullanışlıdır.",
+                    "Flutter Dio -> HTTP isteklerini yapmak ve API'larla iletişim kurmak için kullanılır. Veri alma ve gönderme işlemlerini kolaylaştırır.",
+                    "Flutter SVG -> SVG (Scalable Vector Graphics) dosyalarını Flutter uygulamalarında görüntülemek ve işlemek için kullanılır.",
+                    "Flutter Provider -> Flutter uygulamalarında veri akışını ve durumu yönetmek için kullanılır. State Management için bir seçenek sunar.",
+                    "Flutter SharedPreferences -> Uygulama verilerini yerel depolamada (SharedPreferences) saklamak ve erişmek için kullanılır. Küçük verilerin tutulması için idealdir.",
+                    "Flutter Form Builder -> Formlar oluşturmak ve doğrulama işlemlerini kolaylaştırmak için kullanılır. Kullanıcı girişi ve veri girişi işlemlerini yönetmek için kullanışlıdır.",
+                    "Flutter Image Picker -> Kullanıcının cihazından veya kamera ile fotoğraf seçmesine ve yüklemesine izin veren bir kütüphanedir. Resim seçme işlemlerini kolaylaştırır."
+                ]
+            },
+            {
+                "name": "React Native",
+                "info": "React Native, React kullanarak yerel uygulamalar oluşturmaya yönelik bir çerçevedir. Android ve iOS cihazlardan Windows sistemlerine kadar her şeyi hedefleyen uygulamalar geliştirmek için kullanılabilir.",
+                "projects": "Bilinmiyor...",
+                "imageUrl": "https://raw.githubusercontent.com/Cann2000/api/main/pictures/reactnative.png",
+                "library": [
+                    "Axios -> React Native uygulamaları için HTTP istekleri yapmak ve API'larla iletişim kurmak için kullanılan bir kütüphane. Axios, basit ve güçlü bir HTTP istek istemcisidir.",
+                    "Redux ve react-redux -> Uygulama durumunu yönetmek için kullanılan bir veri depolama ve yönetim kütüphanesidir. React Native uygulamalarında, react-redux, Redux ile entegrasyon sağlar.",
+                    "NativeBase -> React Native için bir UI bileşen kütüphanesidir. Önceden oluşturulmuş bileşenler sunar ve uygulama arayüzünü tasarlarken zaman kazandırır.",
+                    "React Native Push Notifications -> Bildirimlerinizi yönetmek ve kullanıcılara bildirim göndermek için kullanılır. Push bildirimleri için bir arabirim sağlar.",
+                    "React Native Elements -> React Native için özel tasarlanmış, özelleştirilebilir UI bileşenleri koleksiyonunu içerir. İşlevselliği artırmak ve uygulama geliştirme sürecini hızlandırmak için kullanılır.",
+                    "React Native Config -> Ortam değişkenlerini yönetmek ve uygulama yapılandırmalarını ayarlamak için kullanılır. Uygulama konfigürasyonunu basit ve düzenli bir şekilde ele alır.",
+                    "React Native Permissions ->  Kullanıcının izinlerini yönetmek ve izin gerektiren özelliklere erişim izni almak için kullanılır. Örneğin, kamera veya konum izinleri gibi.",
+                    "React Native Maps -> Harita bileşenleri ve harita entegrasyonu için kullanılır. Konumları harita üzerinde göstermek ve interaktif haritalar oluşturmak için idealdir.",
+                    "React Native Net Info -> Cihazın internet bağlantısını izlemek ve bağlantı durumuyla ilgili bilgileri sağlamak için kullanılır. Uygulama, çevrimiçi veya çevrimdışı durumu anlamak için kullanabilir.",
+                    "React Native UI Kitten -> Şık ve özelleştirilebilir kullanıcı arayüzü bileşenleri sağlayan bir kütüphanedir. UI tasarımınızı geliştirmek ve kişiselleştirmek için kullanılır."
+                ]
+            }
+        ],
+        "salary": [
+            {
+                "personalSalaryCount": "188 kişinin paylaştığı maaş verilerine göre hesaplanmıştır."
+            },
+            {
+                "price": "25.290₺",
+                "type": "EN DÜŞÜK",
+                "period": "(Aylık)"
+            },
+            {
+                "price": "53.190₺",
+                "type": "EN YÜKSEK",
+                "period": "(Aylık)"
+            },
+            {
+                "price": "31.610₺",
+                "type": "Ortalama Maaş",
+                "period": "(Aylık)"
+            }
+        ]
+    },
+    "web": {
+        "backend": {
+            "languages": [
+                {
+                    "name": "JavaScript (Node.js)",
+                    "info": "JavaScript, yazılım geliştiricilerinin web sayfaları, uygulamalar ve sunucular geliştirirken kullandıkları dinamik hafif bir programlama dilidir. JavaScript kullanarak etkileşimli ve dinamik web sayfaları geliştirilir. Yazılım geliştiriciler tarafından en yaygın kullanılan temel yazılım dillerinin başında gelmektedir.",
+                    "projects": "Google Chrome, Firefox, Safari vb. popüler web tarayıcılarının çoğu tarafından desteklenir. Günümüzde her gün kullandığımız, yaşamımızın olmazsa olmaz parçalarından bazıları haline gelen Youtube, Twitter, Facebook gibi sayfaların birçok özelliği JavaScript dili ile oluşturulmuştur. ",
+                    "imageUrl": "https://raw.githubusercontent.com/Cann2000/api/main/pictures/nodejs.png",
+                    "library": [
+                        "React JS -> Facebook tarafından geliştirilen bir JavaScript kütüphanesidir. Kullanıcı arayüzleri oluşturmak için kullanılır ve bileşen tabanlı bir yaklaşım sunar.",
+                        "Angular -> Google tarafından geliştirilen bir JavaScript çerçevesidir. Büyük ölçekli web uygulamaları geliştirmek için kullanılır ve geniş bir özellik yelpazesi sunar.",
+                        "Vue.js -> Progressive JavaScript çerçevesidir ve kullanıcı arayüzü oluşturmak için kullanılır. Basit ve hafif bir yapıya sahiptir ve kolayca öğrenilebilir.",
+                        "Express.js -> Node.js üzerinde çalışan hızlı ve esnek bir web uygulama çerçevesidir. Sunucu tarafı uygulamalar geliştirmek için idealdir.",
+                        "jQuery -> JavaScript kütüphanesidir ve HTML dokümanları üzerinde gezinme, olay işleme, animasyonlar ve AJAX iletişimi gibi işlevleri kolaylaştırır.",
+                        "Node.js -> Sunucu tarafı uygulamalar geliştirmek için kullanılan bir JavaScript çalıştırma ortamıdır. Hızlı, hafif ve etkili bir şekilde ağ tabanlı uygulamalar oluşturmanızı sağlar."
+                    ]
+                },
+                {
+                    "name": "Python (Django)",
+                    "info": "Django, Python kullanarak web siteleri oluşturmayı kolaylaştıran bir Python framework’dür. Ücretsiz ve açık kaynaklı bir framework’dür. Django, developer’ların hızlı bir şekilde zengin özelliklere sahip, güvenli ve ölçeklenebilir bir web uygulaması oluşturmasına yardımcı olur. ",
+                    "projects": "Django kullanan web sitelerinin sayısı hızla arttı. Django ile geliştirilmiş ve en çok bilinen uygulamalarından bazıları YouTube, Pinterest, Washington Post, Dropbox, Disqus, Instagram, BitBucket ve Spotify'dır.",
+                    "imageUrl": "https://raw.githubusercontent.com/Cann2000/api/main/pictures/django.png",
+                    "library": [
+                        "Django Rest Framework (DRF) -> Django tabanlı web API'leri hızlı ve kolay bir şekilde oluşturmanıza olanak tanır. RESTful API geliştirmek için kullanılır.",
+                        "Celery -> Dağıtık görev kuyruğu yöneticisidir. Asenkron işlemleri, zamanlanmış görevleri ve iş parçacığı dışı işlemleri kolayca işlemek için kullanılır.",
+                        "Pillow -> Python için güçlü bir görüntü işleme kütüphanesidir. Görüntüleri açma, düzenleme ve saklama işlemlerini sağlar.",
+                        "Django Allauth -> Django tabanlı kimlik doğrulama ve oturum açma süreçlerini yönetmek için kullanılır. Kullanıcı hesapları ve oturumları oluşturmak için kullanışlıdır.",
+                        "Django Crispy Forms -> Django web formlarını daha düzenli ve şık hale getirmek için kullanılır. Formların görünümünü geliştirmek için idealdir.",
+                        "Django Debug Toolbar -> Django uygulamalarınızın hata ayıklama süreçlerini kolaylaştırmak için kullanılır. Performans izleme ve hata ayıklama araçları sunar.",
+                        "Django Haystack -> Django tabanlı uygulamalar için hızlı ve etkili arama işlevselliği sağlar. Veritabanı ve dış arama motorlarıyla entegrasyonu destekler.",
+                        "Django Channels -> Django uygulamalarına gerçek zamanlı iletişim ve WebSocket desteği eklemek için kullanılır. Django projelerine etkileşimli özellikler eklemek için idealdir."
+                    ]
+                },
+                {
+                    "name": "Ruby",
+                    "info": "Ruby, Yukihiro Matsumoto tarafından geliştirilen açık kaynaklı, dinamik, nesne yönelimli ve tamamen özgür bir programlama dilidir. Kullanma, kopyalama, değiştirme ve dağıtma konusunda özgürlük tanır.",
+                    "projects": "Ruby programlama dilinin geniş kapsamlı ve her amaca uygun bir yapısı bulunur. Ruby, web uygulaması geliştirmeden veri analizine kadar pek çok farklı alanda kullanılan popüler bir programlama dilidir. AirBnB, BaseCamp, Github, SoundCloud, SlideShare, Shopify, Hulu, Fiverr ve GoodReads Ruby ile yazılmış popüler web siteleri arasında yer alır. NASA Langley Araştırma Merkezi’nde, Motorola simülasyonlarında ve Google SketchUp komut dosyalarında kullanılmıştır.",
+                    "imageUrl": "https://raw.githubusercontent.com/Cann2000/api/main/pictures/ruby.png",
+                    "library": [
+                        "Ruby on Rails -> Ruby tabanlı bir web uygulama çerçevesidir. Hızlı geliştirme ve ölçeklenebilirlik için tasarlanmıştır. Model-Görünüm-Denetleyici (MVC) modeline dayanır.",
+                        "Sinatra -> Ruby ile yazılmış hafif bir web uygulama çerçevesidir. Basit web uygulamaları oluşturmak için kullanılır ve minimalist bir yaklaşım sunar.",
+                        "Hanami -> Ruby ile yazılmış bir web çerçevesidir. Çok yönlü ve modülerdir. Büyük ölçekli Ruby uygulamaları için uygun bir seçenektir.",
+                        "Grape -> Ruby tabanlı bir RESTful API çerçevesidir. API'lerin hızlı ve kolayca oluşturulmasını sağlar. Özellikle API geliştirmeye odaklanmıştır.",
+                        "Cuba -> Hafif bir Ruby web uygulama çerçevesidir. Ruby dilinin gücünü kullanarak basit ve hızlı web uygulamaları geliştirmek için idealdir.",
+                        "Padrino -> Ruby on Rails'den esinlenen başka bir Ruby web uygulama çerçevesidir. Ruby dilini kullanarak web uygulamaları oluşturmayı kolaylaştırır ve özelleştirilebilirliği vurgular."
+                    ]
+                },
+                {
+                    "name": "PHP",
+                    "info": "PHP, yazılım geliştiriciler için oldukça popüler olan, web tabanlı, HTML içine gömülebilen, nesne yönelimli bir programlama dilidir. E-ticaret sitelerinden CRM sistemlerine kadar kullanılabilen genel amaçlı bir dildir.",
+                    "projects": "PHP yazılım dili Backend Developer ve Full Stack Developer’lar tarafından oldukça sık tercih edilen bir programa dilidir. Günümüzdeki internet sitelerinin büyük çoğunluğunda kullanılır. Facebook, Wikipedia, Yahoo, Slack, Etsy PHP kullanarak geliştirilmiş web sitelerinden bazılarıdır.",
+                    "imageUrl": "https://raw.githubusercontent.com/Cann2000/api/main/pictures/php.png",
+                    "library": [
+                        "Laravel -> PHP tabanlı bir web uygulama çerçevesidir. Hızlı geliştirme, güçlü özellikler ve güvenlik önlemleri sunar. Özellikle modern web uygulamaları oluşturmak için popülerdir.",
+                        "Symfony -> PHP tabanlı bir web uygulama çerçevesidir. Modüler yapısı ile büyük ve karmaşık projeleri kolayca ele almanıza olanak tanır. Çok sayıda genişletilebilir bileşen içerir.",
+                        "Guzzle ->  PHP tabanlı bir HTTP istemci kütüphanesidir. Web hizmetleri ve API'larla etkileşim kurmak için kullanılır. İstekleri gönderme ve yanıtları işleme işlemini kolaylaştırır.",
+                        "PHPUnit -> PHP uygulamalarını test etmek için kullanılan bir birim test çerçevesidir. Kodun kalitesini artırmak ve hata ayıklamayı kolaylaştırmak için idealdir.",
+                        "Swift Mailer -> PHP ile yazılmış güçlü bir e-posta işleme kütüphanesidir. E-posta iletileri oluşturmak, göndermek ve işlemek için kullanılır.",
+                        "Carbon -> PHP tabanlı bir tarih ve saat işleme kütüphanesidir. Tarihler ve saatler üzerinde işlem yapmak için kullanılır ve özellikle zamanlı işlemler için faydalıdır."
+                    ]
+                }
+            ]
+        },
+        "frontend": {
+            "languages": [
+                {
+                    "name": "JavaScript",
+                    "info": "JavaScript, web tarayıcılarında çalışan ve web sayfalarını etkileşimli hale getiren temel bir dildir. JavaScript, React, Angular ve Vue.js gibi çerçevelerle birlikte kullanılarak güçlü web arayüzleri oluşturmanızı sağlar.",
+                    "imageUrl": "https://raw.githubusercontent.com/Cann2000/api/main/pictures/javascript.png"
+                },
+                {
+                    "name": "HTML",
+                    "info": "(Hyper Text Markup Language) internet sayfaları oluşturmak için kullanılan metin işaretleme dilidir. Bir internet sitesinin iskeleti olarak da nitelendirilebilir. Son sürümü HTML5 olan bu dil dinamik işlevsellik oluşturamadığı için programlama dili olarak tanımlanamaz.Ayrıca HTML, resmi bir web standardı olarak kabul edilmektedir. World Wide Web Consortium (W3C), HTML için düzenli güncellemeler sağlamanın yanı sıra HTML özelliklerini korur ve geliştirir. ",
+                    "imageUrl": "https://raw.githubusercontent.com/Cann2000/api/main/pictures/html.png"
+                },
+                {
+                    "name": "CSS",
+                    "info": "CSS (Cascading Style Sheets), basamaklı stil sayfaları anlamına gelir. Yazı tipi, yazı boyutu, renk, boşluk, kenarlık ve HTML bilgilerinin konumu dahil olmak üzere web sitelerindeki içeriğin sunumu ve biçimlendirilmesi için kullanılan stil sayfası, işaretleme dilidir.Tarayıcı HTML sayfasını yükler ardından HTML’i DOM’ye (Document Object Model) dönüştürür. Daha sonra tarayıcı HTML belgesi ile bağlanan gömülü resimler ve CSS kodlarını barındıran CSS sayfasını getirir. ",
+                    "imageUrl": "https://raw.githubusercontent.com/Cann2000/api/main/pictures/css.png"
+                },
+                {
+                    "name": "TypeScript",
+                    "info": " TypeScript, JavaScript'e bir üst küme olarak kabul edilir ve tür belirleme yetenekleri sunar. Angular gibi bazı çerçeveler TypeScript'i tercih eder.",
+                    "imageUrl": "https://raw.githubusercontent.com/Cann2000/api/main/pictures/typescript.png"
+                }
+            ]
+        },
+        "salary": [
+            {
+                "personalSalaryCount": "112 kişinin paylaştığı maaş verilerine göre hesaplanmıştır."
+            },
+            {
+                "price": "14.030₺",
+                "type": "EN DÜŞÜK",
+                "period": "(Aylık)"
+            },
+            {
+                "price": "30.000₺",
+                "type": "EN YÜKSEK",
+                "period": "(Aylık)"
+            },
+            {
+                "price": "17.540₺",
+                "type": "Ortalama Maaş",
+                "period": "(Aylık)"
+            }
+        ]
+    },
+    "game": {
+        "languages": [
+            {
+                "name": "Unity",
+                "info": "Unity bir oyun motorundan bekleyebileceğiniz hemen her özelliğe sahip çok fonksiyonlu bir oyun motorudur. 2D ve 3D projeler üretmek için kullanılabilir. Burada Unity’i diğerlerinden ayıran bu 2D ve 3D modellerin sadece sürükleyip bırakılarak kullanılabilmesidir. Bu sayede oyun geliştirmenin önemli bir bölümünü oluşturan modelleme konusunda geliştiriciye büyük kolaylıklar sağlar.",
+                "imageUrl": "https://raw.githubusercontent.com/Cann2000/api/main/pictures/unity.png",
+                "projects": [
+                    "Escape From Tarkov -> Online çok oyunculu bir hayatta kalma oyunudur. Oyuncular, haritada kaynak toplama ve diğer oyuncularla savaşma görevlerini üstlenirler.",
+                    "RUST -> Açık dünya hayatta kalma oyunudur. Oyuncular, kaynakları toplar, inşaat yapar ve diğer oyuncularla etkileşime girerler.",
+                    "Ori and the Blind Forest -> Platform türündeki bir video oyunudur. Grafikleri ve müziğiyle dikkat çeker ve bir karakterin macerasını anlatır.",
+                    "Deus Ex: The Fall -> Birinci şahıs nişancı ve rol yapma oyunudur. Dünya çapında bir hükümet konspirasyonunu çözmeye çalışan bir karakteri takip eder.",
+                    "Assassin’s Creed: Identity -> Ünlü Assassin's Creed serisinin bir parçasıdır. Oyuncular, tarihi yerlerde dolaşır ve gizli görevleri tamamlar.",
+                    "Hearthstone: Heroes of Warcraft -> Blizzard'ın popüler kart oyunudur. Warcraft evreninden karakterler ve kartlar içerir.",
+                    "Firewatch -> Birinci şahıs macera oyunudur. Orman görevini yerine getirirken karakterin hikayesini takip eder.",
+                    "Hitman Go -> Bulmaca tabanlı bir strateji oyunudur. Oyuncular, düşmanları etkisiz hale getirme ve hedeflere ulaşma görevlerini çözmelidir.",
+                    "Dead Trigger 2 -> Birinci şahıs nişancı türündeki bir oyun olan Dead Trigger 2, zombilerle savaşma konseptini içerir ve hayatta kalan bir dünyada geçer."
+                ]
+            },
+            {
+                "name": "Unreal Engine",
+                "info": "Unreal Engine (UE) ile 2D veya 3D oyunlar geliştirebilirsiniz. Ayrıca bu oyun motoru, dilediğiniz gibi mobil, PC, PS gibi birçok platformda oyun geliştirmenize olanak tanımakta. Oyunlarınızı bir veya birden fazla platformda yayınlayabilir ve bu oyunlardan gelir elde edebilirsiniz.",
+                "imageUrl": "https://raw.githubusercontent.com/Cann2000/api/main/pictures/unrealengine.png",
+                "projects": [
+                    "Ark: Survival Evolved -> Hayatta kalma temalı bir açık dünya oyunudur. Oyuncular, dinozorlarla dolu gizemli bir adada hayatta kalmaya çalışır.",
+                    "Conan Exiles -> Hayatta kalma ve inşa temalı bir açık dünya oyunudur. Oyuncular, barbarlarla dolu Conan evreninde hayatta kalmaya ve krallıklarını kurmaya çalışırlar.",
+                    "Gears 5 -> Ünlü Gears of War serisinin bir parçasıdır. Üçüncü şahıs nişancı türünde bir oyun olan Gears 5, aksiyon dolu savaşları içerir.",
+                    "Dragon Ball FighterZ -> Dragon Ball anime serisine dayanan bir dövüş oyunudur. Karakterler arasında büyüleyici dövüşler sunar.",
+                    "Borderlands 3 -> Borderlands serisinin bir oyunu olarak, FPS ve açık dünya oyun türlerini birleştirir. Kahramanlar, silahlar ve çılgın düşmanlarla dolu bir dünyada macera yaşarlar.",
+                    "Street Fighter 5 -> Borderlands serisinin bir oyunu olarak, FPS ve açık dünya oyun türlerini birleştirir. Kahramanlar, silahlar ve çılgın düşmanlarla dolu bir dünyada macera yaşarlar.",
+                    "Hellblade: Senua’s Sacrifice -> Birinci şahıs perspektifinden oynanan bir aksiyon-gerilim oyunudur. Psikolojik öğeler içerir ve oyuncular, Senua'nın hikayesini keşfederler.",
+                    "Fortnite -> Battle Royale oyunları arasında popüler olan bir çok oyunculu nişancı oyunudur. Oyuncular, hayatta kalmak için savaşır ve inşa ederler."
+                ]
+            },
+            {
+                "name": "Godot Engine",
+                "info": "Godot Engine, MIT lisansı ile yayınlanan, platformlar arası geliştirme desteği sunan ücretsiz ve açık kaynak kodlu bir oyun motorudur. Arjantinli geliştiriciler Juan Linietsky ve Ariel Manzur tarafından Amerikalı birkaç şirket için özel olarak geliştirildi. Daha sonra ise ücretsiz olarak halka açıldı. Godot, 2D ve 3D oyunlar geliştirmek için tasarlanmıştır ve PC, mobil ve web platformlarının tamamı için kullanılabilir. Ayrıca Godot’un çok geniş bir işletim sistemi desteği de bulunmaktadır.",
+                "imageUrl": "https://raw.githubusercontent.com/Cann2000/api/main/pictures/godot.png",
+                "projects": [
+                    "Carol Reed Mysteries -> Bir dizi macera oyununun adıdır. Oyuncular, gizemli olayları çözmek için ipuçlarını takip ederler.",
+                    "City Game Studio -> Bir şehir yönetimi simülasyon oyunudur. Oyuncular, kendi oyun stüdyosunu yönetme görevini üstlenirler.",
+                    "Cruelty Squad -> İlginç birinci şahıs nişancı oyunudur. Yaratıcı düşman tasarımları ve sıradışı atmosferi ile dikkat çeker.",
+                    "Deponia -> Deponia adlı popüler bir grafik macera oyununun iOS ve PlayStation 4 için portlarıdır. Oyuncular, karakter Rufus'un maceralarını deneyimlerler.",
+                    "The Interactive Adventures of Dog Mendonça & Pizzaboy -> Gizem ve komediyi bir araya getiren bir macera oyunudur. Gizemleri çözmek için karakterlerle etkileşime geçilir.",
+                    "Kingdoms of the Dump -> Eşsiz bir indie oyun olan Kingdoms of the Dump, çöp dünyasında macera dolu bir keşif sunar.",
+                    "Rogue State Revolution -> Politika ve devlet yönetimi temalı bir strateji oyunudur. Oyuncular, kendi ülkelerini yönetir ve politik kararlar alırlar.",
+                    "Sonic Colors: Ultimate -> Ünlü Sonic the Hedgehog oyununun bir güncellenmiş versiyonudur. Hızlı tempolu aksiyon ve platform oyunları sunar.",
+                    "Stereobreak -> Birinci şahıs perspektifinden oynanan bir aksiyon oyunudur. Oyuncular, hızlı tepkiler ve beceriler gerektiren çeşitli görevleri tamamlarlar.",
+                    "Riven Tails Defense -> Bir kule savunma oyunudur. Oyuncular, düşman dalgalarını engellemek için stratejik olarak savunma kuleleri inşa ederler."
+                ]
+            }
+        ],
+        "salary": [
+            {
+                "personalSalaryCount": "106 kişinin paylaştığı maaş verilerine göre hesaplanmıştır."
+            },
+            {
+                "price": "18.830₺",
+                "type": "EN DÜŞÜK",
+                "period": "(Aylık)"
+            },
+            {
+                "price": "58.770₺",
+                "type": "EN YÜKSEK",
+                "period": "(Aylık)"
+            },
+            {
+                "price": "23.540₺",
+                "type": "Ortalama Maaş",
+                "period": "(Aylık)"
+            }
+        ]
+    }
+}
