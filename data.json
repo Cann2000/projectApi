@@ -36,7 +36,7 @@
             {
                 "name": "Flutter",
                 "info": "Flutter, iOS, Android ve Windows için platformlar arası uygulamalar oluşturmak için kullanılabilen sağlam bir mobil uygulama geliştirme çerçevesidir. Google’ın Dart programlama dilini kullanır ve kendi grafik kütüphanesi ve malzeme tasarımıyla birlikte gelir, bu da daha hızlı uygulama geliştirme ve daha göz alıcı bir ürün elde etmenizi sağlar.",
-                "projects": "Örneğin, eBay’in ana ürünlerinden biri olan eBay Motors, Flutter ile oluşturulmuştur. Kullanıcılar bu uygulamayı kullanarak araç alıp satabilir ve sadece birkaç dokunuşla tekliflere göz atabilir, reklam yayınlayabilir ve beğendikleri teklifler için teklif verebilir.",
+                "projects": "Örneğin, eBay’in ana ürünlerinden biri olan eBay Motors, Flutter ile oluşturulmuştur. Kullanıcılar bu uygulamayı kullanarak araç alıp satabilir ve sadece birkaç dokunuşla tekliflere göz atabilir, reklam yayınlayabilir ve beğendikleri teklifler için teklif verebilir.\nFlutter ile oluşturulan diğer uygulama örnekleri arasında Stadia, Google Ads, Google Asistan, Alibaba Group’un Xianyu uygulaması, The New York Times mobil uygulaması vb. yer alır.",
                 "imageUrl": "https://raw.githubusercontent.com/Cann2000/projectApi/main/pictures/flutter.png",
                 "library": [
                     "Flutter Bloc -> Flutter uygulamalarınız için durum yönetimi ve olay yönetimi için kullanılan bir kütüphane.",
