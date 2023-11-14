@@ -6,11 +6,11 @@
         },
         {
             "name": "Oyun Geliştiriciliği",
-            "imageUrl": "https://raw.githubusercontent.com/Cann2000/api/main/pictures/game.png"
+            "imageUrl": "https://raw.githubusercontent.com/Cann2000/projectApi/main/pictures/game.png"
         },
         {
             "name": "Web Geliştiriciliği",
-            "imageUrl": "https://raw.githubusercontent.com/Cann2000/api/main/pictures/web.png"
+            "imageUrl": "https://raw.githubusercontent.com/Cann2000/projectApi/main/pictures/web.png"
         }
     ],
     "android": {
@@ -19,7 +19,7 @@
                 "name": "Kotlin & Java",
                 "info": "JetBrains şirketi tarafından statik olarak yazılmış, modern bir programlama olan Kotlin, Google tarafından 2017 yılında resmi olarak kabul edilmiştir. Java ile tamamen uyumlu çalışacak şekilde tasarlanmıştır. Java’dan daha iyi kod yazabilen ve güvenliği sorunsuz olan bir programlama dili tasarlamak isteyen mühendisler, Kotlin’i tasarlamıştır. ",
                 "projects": "Dünyaca bilinen ve son derece popüler olan birçok büyük şirket de Kotlin programlama dilini kullanmaktadır. Netflix, Uber, Trello, Google, Tinder, Airbnb, Slack, Corda, Pinterest bunlardan yalnızca birkaçıdır.",
-                "imageUrl": "https://raw.githubusercontent.com/Cann2000/api/main/pictures/kotlin.png",
+                "imageUrl": "https://raw.githubusercontent.com/Cann2000/projectApi/main/pictures/kotlin.png",
                 "library": [
                     "ANDROID JETPACK -> Android uygulama geliştirmeyi kolaylaştıran Google tarafından oluşturulan bir kütüphane koleksiyonudur.",
                     "RETROFIT -> RESTful API'larla etkileşimde bulunmak için kullanılan bir HTTP istemcisi kütüphanesidir.",
@@ -37,7 +37,7 @@
                 "name": "Flutter",
                 "info": "Flutter, iOS, Android ve Windows için platformlar arası uygulamalar oluşturmak için kullanılabilen sağlam bir mobil uygulama geliştirme çerçevesidir. Google’ın Dart programlama dilini kullanır ve kendi grafik kütüphanesi ve malzeme tasarımıyla birlikte gelir, bu da daha hızlı uygulama geliştirme ve daha göz alıcı bir ürün elde etmenizi sağlar.",
                 "projects": "Örneğin, eBay’in ana ürünlerinden biri olan eBay Motors, Flutter ile oluşturulmuştur. Kullanıcılar bu uygulamayı kullanarak araç alıp satabilir ve sadece birkaç dokunuşla tekliflere göz atabilir, reklam yayınlayabilir ve beğendikleri teklifler için teklif verebilir.",
-                "imageUrl": "https://raw.githubusercontent.com/Cann2000/api/main/pictures/flutter.png",
+                "imageUrl": "https://raw.githubusercontent.com/Cann2000/projectApi/main/pictures/flutter.png",
                 "library": [
                     "Flutter Bloc -> Flutter uygulamalarınız için durum yönetimi ve olay yönetimi için kullanılan bir kütüphane.",
                     "Flutter Redux -> Redux mimarisi ile Flutter uygulamalarını yönetmek için kullanılır. Uygulama durumunu merkezi bir depoda saklar.",
@@ -55,7 +55,7 @@
                 "name": "React Native",
                 "info": "React Native, React kullanarak yerel uygulamalar oluşturmaya yönelik bir çerçevedir. Android ve iOS cihazlardan Windows sistemlerine kadar her şeyi hedefleyen uygulamalar geliştirmek için kullanılabilir.",
                 "projects": "Bilinmiyor...",
-                "imageUrl": "https://raw.githubusercontent.com/Cann2000/api/main/pictures/reactnative.png",
+                "imageUrl": "https://raw.githubusercontent.com/Cann2000/projectApi/main/pictures/reactnative.png",
                 "library": [
                     "Axios -> React Native uygulamaları için HTTP istekleri yapmak ve API'larla iletişim kurmak için kullanılan bir kütüphane. Axios, basit ve güçlü bir HTTP istek istemcisidir.",
                     "Redux ve react-redux -> Uygulama durumunu yönetmek için kullanılan bir veri depolama ve yönetim kütüphanesidir. React Native uygulamalarında, react-redux, Redux ile entegrasyon sağlar.",
@@ -98,7 +98,7 @@
                     "name": "JavaScript (Node.js)",
                     "info": "JavaScript, yazılım geliştiricilerinin web sayfaları, uygulamalar ve sunucular geliştirirken kullandıkları dinamik hafif bir programlama dilidir. JavaScript kullanarak etkileşimli ve dinamik web sayfaları geliştirilir. Yazılım geliştiriciler tarafından en yaygın kullanılan temel yazılım dillerinin başında gelmektedir.",
                     "projects": "Google Chrome, Firefox, Safari vb. popüler web tarayıcılarının çoğu tarafından desteklenir. Günümüzde her gün kullandığımız, yaşamımızın olmazsa olmaz parçalarından bazıları haline gelen Youtube, Twitter, Facebook gibi sayfaların birçok özelliği JavaScript dili ile oluşturulmuştur. ",
-                    "imageUrl": "https://raw.githubusercontent.com/Cann2000/api/main/pictures/nodejs.png",
+                    "imageUrl": "https://raw.githubusercontent.com/Cann2000/projectApi/main/pictures/nodejs.png",
                     "library": [
                         "React JS -> Facebook tarafından geliştirilen bir JavaScript kütüphanesidir. Kullanıcı arayüzleri oluşturmak için kullanılır ve bileşen tabanlı bir yaklaşım sunar.",
                         "Angular -> Google tarafından geliştirilen bir JavaScript çerçevesidir. Büyük ölçekli web uygulamaları geliştirmek için kullanılır ve geniş bir özellik yelpazesi sunar.",
@@ -112,7 +112,7 @@
                     "name": "Python (Django)",
                     "info": "Django, Python kullanarak web siteleri oluşturmayı kolaylaştıran bir Python framework’dür. Ücretsiz ve açık kaynaklı bir framework’dür. Django, developer’ların hızlı bir şekilde zengin özelliklere sahip, güvenli ve ölçeklenebilir bir web uygulaması oluşturmasına yardımcı olur. ",
                     "projects": "Django kullanan web sitelerinin sayısı hızla arttı. Django ile geliştirilmiş ve en çok bilinen uygulamalarından bazıları YouTube, Pinterest, Washington Post, Dropbox, Disqus, Instagram, BitBucket ve Spotify'dır.",
-                    "imageUrl": "https://raw.githubusercontent.com/Cann2000/api/main/pictures/django.png",
+                    "imageUrl": "https://raw.githubusercontent.com/Cann2000/projectApi/main/pictures/django.png",
                     "library": [
                         "Django Rest Framework (DRF) -> Django tabanlı web API'leri hızlı ve kolay bir şekilde oluşturmanıza olanak tanır. RESTful API geliştirmek için kullanılır.",
                         "Celery -> Dağıtık görev kuyruğu yöneticisidir. Asenkron işlemleri, zamanlanmış görevleri ve iş parçacığı dışı işlemleri kolayca işlemek için kullanılır.",
@@ -128,7 +128,7 @@
                     "name": "Ruby",
                     "info": "Ruby, Yukihiro Matsumoto tarafından geliştirilen açık kaynaklı, dinamik, nesne yönelimli ve tamamen özgür bir programlama dilidir. Kullanma, kopyalama, değiştirme ve dağıtma konusunda özgürlük tanır.",
                     "projects": "Ruby programlama dilinin geniş kapsamlı ve her amaca uygun bir yapısı bulunur. Ruby, web uygulaması geliştirmeden veri analizine kadar pek çok farklı alanda kullanılan popüler bir programlama dilidir. AirBnB, BaseCamp, Github, SoundCloud, SlideShare, Shopify, Hulu, Fiverr ve GoodReads Ruby ile yazılmış popüler web siteleri arasında yer alır. NASA Langley Araştırma Merkezi’nde, Motorola simülasyonlarında ve Google SketchUp komut dosyalarında kullanılmıştır.",
-                    "imageUrl": "https://raw.githubusercontent.com/Cann2000/api/main/pictures/ruby.png",
+                    "imageUrl": "https://raw.githubusercontent.com/Cann2000/projectApi/main/pictures/ruby.png",
                     "library": [
                         "Ruby on Rails -> Ruby tabanlı bir web uygulama çerçevesidir. Hızlı geliştirme ve ölçeklenebilirlik için tasarlanmıştır. Model-Görünüm-Denetleyici (MVC) modeline dayanır.",
                         "Sinatra -> Ruby ile yazılmış hafif bir web uygulama çerçevesidir. Basit web uygulamaları oluşturmak için kullanılır ve minimalist bir yaklaşım sunar.",
@@ -142,7 +142,7 @@
                     "name": "PHP",
                     "info": "PHP, yazılım geliştiriciler için oldukça popüler olan, web tabanlı, HTML içine gömülebilen, nesne yönelimli bir programlama dilidir. E-ticaret sitelerinden CRM sistemlerine kadar kullanılabilen genel amaçlı bir dildir.",
                     "projects": "PHP yazılım dili Backend Developer ve Full Stack Developer’lar tarafından oldukça sık tercih edilen bir programa dilidir. Günümüzdeki internet sitelerinin büyük çoğunluğunda kullanılır. Facebook, Wikipedia, Yahoo, Slack, Etsy PHP kullanarak geliştirilmiş web sitelerinden bazılarıdır.",
-                    "imageUrl": "https://raw.githubusercontent.com/Cann2000/api/main/pictures/php.png",
+                    "imageUrl": "https://raw.githubusercontent.com/Cann2000/projectApi/main/pictures/php.png",
                     "library": [
                         "Laravel -> PHP tabanlı bir web uygulama çerçevesidir. Hızlı geliştirme, güçlü özellikler ve güvenlik önlemleri sunar. Özellikle modern web uygulamaları oluşturmak için popülerdir.",
                         "Symfony -> PHP tabanlı bir web uygulama çerçevesidir. Modüler yapısı ile büyük ve karmaşık projeleri kolayca ele almanıza olanak tanır. Çok sayıda genişletilebilir bileşen içerir.",
@@ -159,22 +159,22 @@
                 {
                     "name": "JavaScript",
                     "info": "JavaScript, web tarayıcılarında çalışan ve web sayfalarını etkileşimli hale getiren temel bir dildir. JavaScript, React, Angular ve Vue.js gibi çerçevelerle birlikte kullanılarak güçlü web arayüzleri oluşturmanızı sağlar.",
-                    "imageUrl": "https://raw.githubusercontent.com/Cann2000/api/main/pictures/javascript.png"
+                    "imageUrl": "https://raw.githubusercontent.com/Cann2000/projectApi/main/pictures/javascript.png"
                 },
                 {
                     "name": "HTML",
                     "info": "(Hyper Text Markup Language) internet sayfaları oluşturmak için kullanılan metin işaretleme dilidir. Bir internet sitesinin iskeleti olarak da nitelendirilebilir. Son sürümü HTML5 olan bu dil dinamik işlevsellik oluşturamadığı için programlama dili olarak tanımlanamaz.Ayrıca HTML, resmi bir web standardı olarak kabul edilmektedir. World Wide Web Consortium (W3C), HTML için düzenli güncellemeler sağlamanın yanı sıra HTML özelliklerini korur ve geliştirir. ",
-                    "imageUrl": "https://raw.githubusercontent.com/Cann2000/api/main/pictures/html.png"
+                    "imageUrl": "https://raw.githubusercontent.com/Cann2000/projectApi/main/pictures/html.png"
                 },
                 {
                     "name": "CSS",
                     "info": "CSS (Cascading Style Sheets), basamaklı stil sayfaları anlamına gelir. Yazı tipi, yazı boyutu, renk, boşluk, kenarlık ve HTML bilgilerinin konumu dahil olmak üzere web sitelerindeki içeriğin sunumu ve biçimlendirilmesi için kullanılan stil sayfası, işaretleme dilidir.Tarayıcı HTML sayfasını yükler ardından HTML’i DOM’ye (Document Object Model) dönüştürür. Daha sonra tarayıcı HTML belgesi ile bağlanan gömülü resimler ve CSS kodlarını barındıran CSS sayfasını getirir. ",
-                    "imageUrl": "https://raw.githubusercontent.com/Cann2000/api/main/pictures/css.png"
+                    "imageUrl": "https://raw.githubusercontent.com/Cann2000/projectApi/main/pictures/css.png"
                 },
                 {
                     "name": "TypeScript",
                     "info": " TypeScript, JavaScript'e bir üst küme olarak kabul edilir ve tür belirleme yetenekleri sunar. Angular gibi bazı çerçeveler TypeScript'i tercih eder.",
-                    "imageUrl": "https://raw.githubusercontent.com/Cann2000/api/main/pictures/typescript.png"
+                    "imageUrl": "https://raw.githubusercontent.com/Cann2000/projectApi/main/pictures/typescript.png"
                 }
             ]
         },
@@ -204,7 +204,7 @@
             {
                 "name": "Unity",
                 "info": "Unity bir oyun motorundan bekleyebileceğiniz hemen her özelliğe sahip çok fonksiyonlu bir oyun motorudur. 2D ve 3D projeler üretmek için kullanılabilir. Burada Unity’i diğerlerinden ayıran bu 2D ve 3D modellerin sadece sürükleyip bırakılarak kullanılabilmesidir. Bu sayede oyun geliştirmenin önemli bir bölümünü oluşturan modelleme konusunda geliştiriciye büyük kolaylıklar sağlar.",
-                "imageUrl": "https://raw.githubusercontent.com/Cann2000/api/main/pictures/unity.png",
+                "imageUrl": "https://raw.githubusercontent.com/Cann2000/projectApi/main/pictures/unity.png",
                 "projects": [
                     "Escape From Tarkov -> Online çok oyunculu bir hayatta kalma oyunudur. Oyuncular, haritada kaynak toplama ve diğer oyuncularla savaşma görevlerini üstlenirler.",
                     "RUST -> Açık dünya hayatta kalma oyunudur. Oyuncular, kaynakları toplar, inşaat yapar ve diğer oyuncularla etkileşime girerler.",
@@ -220,7 +220,7 @@
             {
                 "name": "Unreal Engine",
                 "info": "Unreal Engine (UE) ile 2D veya 3D oyunlar geliştirebilirsiniz. Ayrıca bu oyun motoru, dilediğiniz gibi mobil, PC, PS gibi birçok platformda oyun geliştirmenize olanak tanımakta. Oyunlarınızı bir veya birden fazla platformda yayınlayabilir ve bu oyunlardan gelir elde edebilirsiniz.",
-                "imageUrl": "https://raw.githubusercontent.com/Cann2000/api/main/pictures/unrealengine.png",
+                "imageUrl": "https://raw.githubusercontent.com/Cann2000/projectApi/main/pictures/unrealengine.png",
                 "projects": [
                     "Ark: Survival Evolved -> Hayatta kalma temalı bir açık dünya oyunudur. Oyuncular, dinozorlarla dolu gizemli bir adada hayatta kalmaya çalışır.",
                     "Conan Exiles -> Hayatta kalma ve inşa temalı bir açık dünya oyunudur. Oyuncular, barbarlarla dolu Conan evreninde hayatta kalmaya ve krallıklarını kurmaya çalışırlar.",
@@ -235,7 +235,7 @@
             {
                 "name": "Godot Engine",
                 "info": "Godot Engine, MIT lisansı ile yayınlanan, platformlar arası geliştirme desteği sunan ücretsiz ve açık kaynak kodlu bir oyun motorudur. Arjantinli geliştiriciler Juan Linietsky ve Ariel Manzur tarafından Amerikalı birkaç şirket için özel olarak geliştirildi. Daha sonra ise ücretsiz olarak halka açıldı. Godot, 2D ve 3D oyunlar geliştirmek için tasarlanmıştır ve PC, mobil ve web platformlarının tamamı için kullanılabilir. Ayrıca Godot’un çok geniş bir işletim sistemi desteği de bulunmaktadır.",
-                "imageUrl": "https://raw.githubusercontent.com/Cann2000/api/main/pictures/godot.png",
+                "imageUrl": "https://raw.githubusercontent.com/Cann2000/projectApi/main/pictures/godot.png",
                 "projects": [
                     "Carol Reed Mysteries -> Bir dizi macera oyununun adıdır. Oyuncular, gizemli olayları çözmek için ipuçlarını takip ederler.",
                     "City Game Studio -> Bir şehir yönetimi simülasyon oyunudur. Oyuncular, kendi oyun stüdyosunu yönetme görevini üstlenirler.",
