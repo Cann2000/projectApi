@@ -7,6 +7,10 @@
         {
             "imageUrl": "https://raw.githubusercontent.com/Cann2000/projectApi/main/BlogPictures/stackoverflow.png",
             "link": "https://stackoverflow.com/"
+        },
+        {
+            "imageUrl": "https://raw.githubusercontent.com/Cann2000/projectApi/main/BlogPictures/codewars.png",
+            "link": "https://www.codewars.com/"
         }
     ],
     "contents": [
