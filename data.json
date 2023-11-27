@@ -1,16 +1,16 @@
 {
     "contents": [
         {
+            "name": "Android Geliştiriciliği",
             "imageUrl": "https://raw.githubusercontent.com/Cann2000/projectApi/main/pictures/android.png"
-            "link": ""
         },
         {
+            "name": "Oyun Geliştiriciliği",
             "imageUrl": "https://raw.githubusercontent.com/Cann2000/projectApi/main/pictures/game.png"
-            "link": ""
         },
         {
+            "name": "Web Geliştiriciliği",
             "imageUrl": "https://raw.githubusercontent.com/Cann2000/projectApi/main/pictures/web.png"
-            "link": ""
         }
     ],
     "android": {
