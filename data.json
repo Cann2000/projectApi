@@ -2,11 +2,11 @@
     "blogs":[
         {
             "imageUrl": "https://raw.githubusercontent.com/Cann2000/projectApi/main/BlogPictures/github.png",
-            "link": ""
+            "link": "https://github.com/"
         },
         {
-            "imageUrl": "https://raw.githubusercontent.com/Cann2000/projectApi/main/pictures/game.png",
-            "link": ""
+            "imageUrl": "https://raw.githubusercontent.com/Cann2000/projectApi/main/BlogPictures/stackoverflow.png",
+            "link": "https://stackoverflow.com/"
         }
     ],
     "contents": [
