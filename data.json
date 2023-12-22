@@ -27,6 +27,62 @@
             "imageUrl": "https://raw.githubusercontent.com/Cann2000/projectApi/main/pictures/web.png"
         }
     ],
+    "events": [
+        {
+            "isim": "Türkiye İş Bankası Hiring Week",
+            "aciklama": "Hiring Week'e Katıl, Türkiye İş Bankası Ekibinde Katılma Fırsatı Yakala!",
+            "son_basvuru_tarihi": "1 Ocak",
+            "link": "https://coderspace.io/etkinlikler/turkiye-is-bankasi-hiring-week/"
+        },
+        {
+            "isim": "Fibabanka Fintern Future Talent Program 2024",
+            "aciklama": "Kariyerinin Kodunu Birlikte Yazalım!",
+            "son_basvuru_tarihi": "7 Ocak",
+            "link": "https://coderspace.io/etkinlikler/fibabanka-fintern-future-talent-program-2024/"
+        },
+        {
+            "isim": "Cyber Security Day",
+            "aciklama": "Siber güvenlik alanına ilgi duyan genç yetenekler ile şirketlerin siber güvenlik uzmanları buluşuyor!",
+            "son_basvuru_tarihi": "11 Ocak",
+            "link": "https://coderspace.io/etkinlikler/cyber-security-day-2024/"
+        },
+        {
+            "isim": "Travel to Future Program",
+            "aciklama": "Your Tech Travel Starts Here!",
+            "son_basvuru_tarihi": "25 Ocak",
+            "link": "https://coderspace.io/etkinlikler/travel-to-future-program-II/"
+        },
+        {
+            "isim": "Areon Hackathon",
+            "aciklama": "Hackathona Katıl, Büyük Ödülün Sahibi Ol!",
+            "son_basvuru_tarihi": "2 Şubat",
+            "link": "https://coderspace.io/etkinlikler/areon-hackathon/"
+        },
+        {
+            "isim": "Hack the Insurance",
+            "aciklama": "Hack Series’ın ilk Hackathonu Anadolu Sigorta sponsorluğundaki Hack the Insurance’a katıl, büyük ödülleri kazan!",
+            "son_basvuru_tarihi": "26 Kasım",
+            "link": "https://coderspace.io/etkinlikler/hack-the-insurance-hackathon/"
+        },
+        {
+            "isim": "Akbank & Microsoft AI Academy Data Analyst Eğitimi",
+            "aciklama": "Akbank & Microsoft AI Academy Data Analyst Eğitimi İle Uygulamalı Makine Öğrenimi Eğitimine Katılma Şansı Yakala!",
+            "son_basvuru_tarihi": "1 Ekim",
+            "link": "https://coderspace.io/etkinlikler/akbank-microsoft-ai-academy-data-analyst-egitimi-2/"
+        },
+        {
+            "isim": "Papara Kadın Yazılımcı Bootcamp’i",
+            "aciklama": "Bootcamp’e katıl, Papara’da iş fırsatı yakala!",
+            "son_basvuru_tarihi": "21 Aralık",
+            "link": "https://coderspace.io/etkinlikler/papara-kadn-yazlmc-bootcampi-/"
+        },
+        {
+            "isim": "Vodafone Long Term Internship",
+            "aciklama": "Your dream job does exist. Discover it at Vodafone!",
+            "son_basvuru_tarihi": "23 Kasım",
+            "link": "https://coderspace.io/etkinlikler/vodafone-uzun-donem-staj-programi/"
+        }
+    ],
     "android": {
         "languages": [
             {
