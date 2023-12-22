@@ -33,56 +33,56 @@
             "info": "Hiring Week'e Katıl, Türkiye İş Bankası Ekibinde Katılma Fırsatı Yakala!",
             "application_deadline": "Son Başvuru: 1 Ocak",
             "link": "https://coderspace.io/etkinlikler/turkiye-is-bankasi-hiring-week/",
-            "imageUrl": ""
+            "imageUrl": "https://github.com/Cann2000/projectApi/blob/main/event_pictures/1.jpg?raw=true"
         },
         {
             "name": "Fibabanka Fintern Future Talent Program 2024",
             "info": "Kariyerinin Kodunu Birlikte Yazalım!",
             "application_deadline": "Son Başvuru: 7 Ocak",
             "link": "https://coderspace.io/etkinlikler/fibabanka-fintern-future-talent-program-2024/",
-            "imageUrl": ""
+            "imageUrl": "https://github.com/Cann2000/projectApi/blob/main/event_pictures/2.jpg?raw=true"
         },
         {
             "name": "Cyber Security Day",
             "info": "Siber güvenlik alanına ilgi duyan genç yetenekler ile şirketlerin siber güvenlik uzmanları buluşuyor!",
             "application_deadline": "Son Başvuru: 11 Ocak",
             "link": "https://coderspace.io/etkinlikler/cyber-security-day-2024/",
-            "imageUrl": ""
+            "imageUrl": "https://github.com/Cann2000/projectApi/blob/main/event_pictures/3.jpg?raw=true"
         },
         {
             "name": "Travel to Future Program",
             "info": "Your Tech Travel Starts Here!",
             "application_deadline": "Son Başvuru: 25 Ocak",
             "link": "https://coderspace.io/etkinlikler/travel-to-future-program-II/",
-            "imageUrl": ""
+            "imageUrl": "https://github.com/Cann2000/projectApi/blob/main/event_pictures/4.jpg?raw=true"
         },
         {
             "name": "Areon Hackathon",
             "info": "Hackathona Katıl, Büyük Ödülün Sahibi Ol!",
             "application_deadline": "Son Başvuru: 2 Şubat",
             "link": "https://coderspace.io/etkinlikler/areon-hackathon/",
-            "imageUrl": ""
+            "imageUrl": "https://github.com/Cann2000/projectApi/blob/main/event_pictures/5.jpg?raw=true"
         },
         {
             "name": "Akbank & Microsoft AI Academy Data Analyst Eğitimi",
             "info": "Akbank & Microsoft AI Academy Data Analyst Eğitimi İle Uygulamalı Makine Öğrenimi Eğitimine Katılma Şansı Yakala!",
             "application_deadline": "Son Başvuru: 1 Ekim",
             "link": "https://coderspace.io/etkinlikler/akbank-microsoft-ai-academy-data-analyst-egitimi-2/",
-            "imageUrl": ""
+            "imageUrl": "https://github.com/Cann2000/projectApi/blob/main/event_pictures/6.jpg?raw=true"
         },
         {
             "name": "Papara Kadın Yazılımcı Bootcamp’i",
             "info": "Bootcamp’e katıl, Papara’da iş fırsatı yakala!",
             "application_deadline": "Son Başvuru: 21 Aralık",
             "link": "https://coderspace.io/etkinlikler/papara-kadn-yazlmc-bootcampi-/",
-            "imageUrl": ""
+            "imageUrl": "https://github.com/Cann2000/projectApi/blob/main/event_pictures/7.jpg?raw=true"
         },
         {
             "name": "Vodafone Long Term Internship",
             "info": "Your dream job does exist. Discover it at Vodafone!",
             "application_deadline": "Son Başvuru: 23 Kasım",
             "link": "https://coderspace.io/etkinlikler/vodafone-uzun-donem-staj-programi/",
-            "imageUrl": ""
+            "imageUrl": "https://github.com/Cann2000/projectApi/blob/main/event_pictures/8.jpg?raw=true"
         }
     ],
     "android": {
