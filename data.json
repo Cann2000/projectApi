@@ -31,65 +31,58 @@
         {
             "name": "Türkiye İş Bankası Hiring Week",
             "info": "Hiring Week'e Katıl, Türkiye İş Bankası Ekibinde Katılma Fırsatı Yakala!",
-            "application_deadline": "1 Ocak",
-            "imageUrl": "",
-            "link": "https://coderspace.io/etkinlikler/turkiye-is-bankasi-hiring-week/"
+            "application_deadline": "Son Başvuru: 1 Ocak",
+            "link": "https://coderspace.io/etkinlikler/turkiye-is-bankasi-hiring-week/",
+            "imageUrl": ""
         },
         {
             "name": "Fibabanka Fintern Future Talent Program 2024",
             "info": "Kariyerinin Kodunu Birlikte Yazalım!",
-            "application_deadline": "7 Ocak",
-            "imageUrl": "",
-            "link": "https://coderspace.io/etkinlikler/fibabanka-fintern-future-talent-program-2024/"
+            "application_deadline": "Son Başvuru: 7 Ocak",
+            "link": "https://coderspace.io/etkinlikler/fibabanka-fintern-future-talent-program-2024/",
+            "imageUrl": ""
         },
         {
             "name": "Cyber Security Day",
             "info": "Siber güvenlik alanına ilgi duyan genç yetenekler ile şirketlerin siber güvenlik uzmanları buluşuyor!",
-            "application_deadline": "11 Ocak",
-            "imageUrl": "",
-            "link": "https://coderspace.io/etkinlikler/cyber-security-day-2024/"
+            "application_deadline": "Son Başvuru: 11 Ocak",
+            "link": "https://coderspace.io/etkinlikler/cyber-security-day-2024/",
+            "imageUrl": ""
         },
         {
             "name": "Travel to Future Program",
             "info": "Your Tech Travel Starts Here!",
-            "application_deadline": "25 Ocak",
-            "imageUrl": "",
-            "link": "https://coderspace.io/etkinlikler/travel-to-future-program-II/"
+            "application_deadline": "Son Başvuru: 25 Ocak",
+            "link": "https://coderspace.io/etkinlikler/travel-to-future-program-II/",
+            "imageUrl": ""
         },
         {
             "name": "Areon Hackathon",
             "info": "Hackathona Katıl, Büyük Ödülün Sahibi Ol!",
-            "application_deadline": "2 Şubat",
-            "imageUrl": "",
-            "link": "https://coderspace.io/etkinlikler/areon-hackathon/"
-        },
-        {
-            "name": "Hack the Insurance",
-            "info": "Hack Series’ın ilk Hackathonu Anadolu Sigorta sponsorluğundaki Hack the Insurance’a katıl, büyük ödülleri kazan!",
-            "application_deadline": "26 Kasım",
-            "imageUrl": "",
-            "link": "https://coderspace.io/etkinlikler/hack-the-insurance-hackathon/"
+            "application_deadline": "Son Başvuru: 2 Şubat",
+            "link": "https://coderspace.io/etkinlikler/areon-hackathon/",
+            "imageUrl": ""
         },
         {
             "name": "Akbank & Microsoft AI Academy Data Analyst Eğitimi",
             "info": "Akbank & Microsoft AI Academy Data Analyst Eğitimi İle Uygulamalı Makine Öğrenimi Eğitimine Katılma Şansı Yakala!",
-            "application_deadline": "1 Ekim",
-            "imageUrl": "",
-            "link": "https://coderspace.io/etkinlikler/akbank-microsoft-ai-academy-data-analyst-egitimi-2/"
+            "application_deadline": "Son Başvuru: 1 Ekim",
+            "link": "https://coderspace.io/etkinlikler/akbank-microsoft-ai-academy-data-analyst-egitimi-2/",
+            "imageUrl": ""
         },
         {
             "name": "Papara Kadın Yazılımcı Bootcamp’i",
             "info": "Bootcamp’e katıl, Papara’da iş fırsatı yakala!",
-            "application_deadline": "21 Aralık",
-            "imageUrl": "",
-            "link": "https://coderspace.io/etkinlikler/papara-kadn-yazlmc-bootcampi-/"
+            "application_deadline": "Son Başvuru: 21 Aralık",
+            "link": "https://coderspace.io/etkinlikler/papara-kadn-yazlmc-bootcampi-/",
+            "imageUrl": ""
         },
         {
             "name": "Vodafone Long Term Internship",
             "info": "Your dream job does exist. Discover it at Vodafone!",
-            "application_deadline": "23 Kasım",
-            "imageUrl": "",
-            "link": "https://coderspace.io/etkinlikler/vodafone-uzun-donem-staj-programi/"
+            "application_deadline": "Son Başvuru: 23 Kasım",
+            "link": "https://coderspace.io/etkinlikler/vodafone-uzun-donem-staj-programi/",
+            "imageUrl": ""
         }
     ],
     "android": {
