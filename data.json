@@ -95,16 +95,16 @@
                 "projects": "Dünyaca bilinen ve son derece popüler olan birçok büyük şirket de Kotlin programlama dilini kullanmaktadır. Netflix, Uber, Trello, Google, Tinder, Airbnb, Slack, Corda, Pinterest bunlardan yalnızca birkaçıdır.",
                 "imageUrl": "https://raw.githubusercontent.com/Cann2000/projectApi/main/pictures/kotlin.png",
                 "library": [
-                    "ANDROID JETPACK -> Android uygulama geliştirmeyi kolaylaştıran Google tarafından oluşturulan bir kütüphane koleksiyonudur.",
-                    "RETROFIT -> RESTful API'larla etkileşimde bulunmak için kullanılan bir HTTP istemcisi kütüphanesidir.",
-                    "OKHTTP ->  HTTP istekleri göndermek ve almak için kullanılan hızlı ve güçlü bir kütüphanedir.",
-                    "GLIDE & PICASSO -> Android uygulamalarında görüntüleri işlemek için kullanılan popüler resim işleme kütüphaneleridir.",
-                    "ROOM -> Android uygulamaları için yerel SQLite veritabanı işlemlerini basitleştiren bir ORM kütüphanesidir.",
-                    "FIREBASE -> Google'ın sunucu tarafı altyapısını ve çeşitli hizmetleri içeren bulut tabanlı bir geliştirme platformudur.",
-                    "DAGGER VEYA HILT -> Bağımlılık enjeksiyonu için kullanılan kütüphanelerdir. Uygulama bileşenlerini yönetmeye yardımcı olurlar.",
-                    "RXJAVA VEYA KOTLIN COROUTINES -> Asenkron işlemleri yönetmek ve reaktif programlama prensiplerini uygulamak için kullanılan kütüphanelerdir.",
-                    "JUNIT VE ESPRESSO -> Android uygulama testleri için kullanılan popüler test kütüphaneleridir.",
-                    "PROGUARD VEYA R8 -> Android uygulamalarını küçültmek, optimize etmek ve güvenli hale getirmek için kullanılan araçlardır. ProGuard daha önce yaygın olarak kullanılmıştır, ancak R8 artık daha yaygın olarak tercih edilen bir araçtır."
+                    "Android Jetpack -> Android uygulama geliştirmeyi kolaylaştıran Google tarafından oluşturulan bir kütüphane koleksiyonudur.",
+                    "Retrofit -> RESTful API'larla etkileşimde bulunmak için kullanılan bir HTTP istemcisi kütüphanesidir.",
+                    "OkHttp ->  HTTP istekleri göndermek ve almak için kullanılan hızlı ve güçlü bir kütüphanedir.",
+                    "Glide & Picasso -> Android uygulamalarında görüntüleri işlemek için kullanılan popüler resim işleme kütüphaneleridir.",
+                    "Room -> Android uygulamaları için yerel SQLite veritabanı işlemlerini basitleştiren bir ORM kütüphanesidir.",
+                    "Firebase -> Google'ın sunucu tarafı altyapısını ve çeşitli hizmetleri içeren bulut tabanlı bir geliştirme platformudur.",
+                    "Dagger Veya Hilr -> Bağımlılık enjeksiyonu için kullanılan kütüphanelerdir. Uygulama bileşenlerini yönetmeye yardımcı olurlar.",
+                    "RxJava Veya Kotlin Coroutines -> Asenkron işlemleri yönetmek ve reaktif programlama prensiplerini uygulamak için kullanılan kütüphanelerdir.",
+                    "JUnit VE Espresso -> Android uygulama testleri için kullanılan popüler test kütüphaneleridir.",
+                    "Proguard Veya R8 -> Android uygulamalarını küçültmek, optimize etmek ve güvenli hale getirmek için kullanılan araçlardır. ProGuard daha önce yaygın olarak kullanılmıştır, ancak R8 artık daha yaygın olarak tercih edilen bir araçtır."
                 ]
             },
             {
@@ -361,6 +361,90 @@
             },
             {
                 "price": "23.540₺",
+                "type": "Ortalama Maaş",
+                "period": "(Aylık)"
+            }
+        ]
+    },
+    "AI":{
+
+        "languages":[
+
+            {
+                "name": "Python",
+                "info": "Yapay zeka ve makine öğrenimi uygulamaları için en yaygın kullanılan dil Python'dur. TensorFlow, PyTorch, scikit-learn, Keras gibi önemli kütüphaneler ve çerçeveler Python ile entegre bir şekilde çalışır.",
+                "advantage": "<p><strong>Geniş Kütüphane Desteği:</strong> Python, zengin bir kütüphane ekosistemine sahiptir. TensorFlow, Keras, PyTorch, SciKit-Learn, NLTK, OpenCV gibi kütüphaneler sayesinde çeşitli yapay zeka görevleri için hazır çözümler bulunabilir.</p>\n\n<p><strong>Topluluk Desteği:</strong> Python, geniş bir geliştirici topluluğuna sahiptir. Bu, sorunlarla karşılaşıldığında veya yardıma ihtiyaç duyulduğunda daha kolay destek alınabileceği anlamına gelir.</p>\n\n<p><strong>Veri Bilimi Entegrasyonu:</strong> Python, veri bilimi ve yapay zeka alanları arasındaki entegrasyonu kolaylaştırır. Pandas, NumPy gibi kütüphaneler, veri manipülasyonu ve analizi için güçlü araçlar sunar.</p>\n\n<p><strong>Kolay Öğrenme Eğrisi:</strong> Python, açık ve anlaşılır bir sözdizimine sahiptir. Bu, yeni başlayanların dilin temellerini hızlı bir şekilde öğrenmelerini sağlar.</p>\n\n<p><strong>Çok Platform Desteği:</strong> Python, çeşitli işletim sistemlerinde çalışabilir. Bu, farklı platformlarda uygulamaların kolayca taşınabilir olmasını sağlar.</p>",
+                "disadvantage": "<p><strong>Performans:</strong> Python, C veya C++ gibi dillere göre daha yavaşdır. Özellikle büyük veri setleri veya yoğun hesaplama gerektiren uygulamalarda performans sorunları ortaya çıkabilir.</p>\n\n<p><strong>Mobilitet Sorunları:</strong> Python uygulamalarının taşınabilirliği konusunda sorunlar yaşanabilir. Özellikle Python 2'den Python 3'e geçiş sürecinde bazı eski kütüphaneler ve kodlar uyumsuzluklarla karşılaşabilir.</p>\n\n<p><strong>Kısıtlı Mobil Desteği:</strong> Mobil uygulama geliştirmek isteyenler için Python'ın doğrudan destek sağlamayan bir dil olması bir dezavantajdır.</p>\n\n<p><strong>Güvenlik Konuları:</strong> Python, C ve C++ gibi dillere kıyasla daha yüksek seviyede bir dil olduğu için güvenlik konularında daha hassas olabilir. Ancak, bu daha çok uygulama koduna ve geliştirici uygulamalarına bağlıdır.</p>",
+                "possible_applications":[
+
+                    "Görüntü Tanıma -> Nesne tanıma, yüz tanıma, ve görüntü sınıflandırma uygulamaları. Örneğin, TensorFlow ve Keras gibi kütüphanelerle evrişimli sinir ağları (CNN) kullanarak nesne tanıma modeli geliştirebilirsiniz.",
+                    "Doğal Dil İşleme (NLP) -> Metin madenciliği, metin sınıflandırma, duygu analizi, dil çevirisi ve konuşma tanıma gibi NLP uygulamaları. SpaCy, NLTK, TextBlob ve Transformers gibi kütüphanelerle bu tür uygulamaları geliştirebilirsiniz.",
+                    "Makine Öğrenimi ve Derin Öğrenme: -> Tahmin modelleri, sınıflandırma, regresyon ve derin öğrenme modelleri oluşturmak. TensorFlow, Keras, PyTorch gibi kütüphanelerle çeşitli öğrenme algoritmalarını uygulayabilirsiniz.",
+                    "Haber Özetleme ve Metin Özetleme -> Verileri analiz ederek makalelerin özetlerini çıkarmak. Gensim veya sumy gibi kütüphaneleri kullanarak metin özetleme uygulamaları geliştirebilirsiniz.",
+                    "Chatbotlar -> Doğal dil anlama ve cevap verme yetenekleri ile sohbet botları oluşturmak. Rasa, ChatterBot, veya Dialogflow gibi kütüphaneleri kullanarak chatbot geliştirebilirsiniz.",
+                    "Oyunlardaki Yapay Zeka -> Oyunlarda düşman davranışları, oyun stratejileri ve oyun içi kararlar üzerinde çalışan yapay zeka geliştirmek. Pygame, Unity veya Unreal Engine gibi oyun geliştirme çerçeveleri kullanabilirsiniz.",
+                    "Finansal Tahmin ve Ticaret Stratejileri -> Hisse senetleri, kripto paralar veya döviz ticaretinde kullanılacak finansal tahmin modelleri geliştirmek. Pandas, NumPy ve Scikit-Learn gibi kütüphaneleri kullanabilirsiniz.",
+                    "Ses ve Konuşma İşleme -> Sesli asistanlar, konuşma tanıma ve ses sentezi uygulamaları. SpeechRecognition, gTTS (Google Text-to-Speech), ve librosa gibi kütüphanelerle bu tür uygulamalar geliştirebilirsiniz.",
+                    "Hasta Teşhisi ve Tıbbi Görüntü İşleme -> Tıbbi görüntülerden bilgi çıkarmak ve hastalıkları teşhis etmek. TensorFlow, Keras ve OpenCV gibi kütüphaneleri kullanarak bu tür uygulamalar geliştirebilirsiniz.",
+                    "Otonom Araçlar ve Robotik -> Otonom araçlar veya robotlar için yapay zeka kontrollü navigasyon, çevresel algılama ve karar verme sistemleri oluşturmak. ROS (Robot Operating System) ve OpenCV gibi kütüphaneleri kullanabilirsiniz."
+                ]
+            },
+            {
+                "name": "Java",
+                "info": "Java, geniş bir endüstri tarafından kullanılan bir dil olup, büyük ölçekli uygulamalarda tercih edilebilir. Deeplearning4j gibi kütüphaneler, Java'yı yapay zeka uygulamaları için uygun hale getirir.",
+                "advantage": "<p><strong>Platform Bağımsızlık:</strong> Java, write once, run anywhere prensibi üzerine kurulu olduğu için platform bağımsızdır. Bu, Java ile geliştirilen uygulamaların farklı işletim sistemlerinde çalışabilir olduğu anlamına gelir.</p>\n\n<p><strong>Geniş Kütüphane Desteği:</strong> Java, zengin bir kütüphane ekosistemine sahiptir. Bu, yapay zeka uygulamalarında kullanılabilecek çeşitli araçların ve çözümlerin bulunmasına olanak tanır.</p>\n\n<p><strong>Nesne Yönelimli Programlama (OOP):</strong> Java, nesne yönelimli programlamanın temel prensiplerine uygun bir dil olarak tasarlanmıştır. Bu, büyük ve karmaşık yapay zeka projelerini daha organize ve sürdürülebilir hale getirebilir.</p>\n\n<p><strong>Gelişmiş Güvenlik:</strong> Java, güvenlik konularına önem veren bir dil olarak bilinir. Güvenlik konusundaki önlemler, zararlı yazılımların engellenmesine yardımcı olabilir.</p>",
+                "disadvantage": "<p><strong>Düşük Seviyeli Kontrol:</strong> Java, düşük seviyeli donanım kontrolleri konusunda C veya C++ gibi dillere göre daha sınırlıdır. Bu, özellikle performansı kritik olan uygulamalarda bir dezavantaj olabilir.</p>\n\n<p><strong>Bağlam Yönetimi:</strong> Bazı durumlarda, Java uygulamalarının düşük seviyeli bağlam yönetimi ve bellek kontrolü konusunda eleştirilere maruz kalabilir.</p>\n\n<p><strong>Performans:</strong> Java, doğrudan derlenen diller olan C veya C++ gibi dillere göre daha yavaş olabilir. Bu, özellikle yoğun hesaplama gerektiren yapay zeka uygulamalarında performans sorunlarına neden olabilir.</p>\n\n<p><strong>Yeni Trendlere Hızlı Uyum:</strong> Bazı durumlarda, Java'nın yeni ve hızla gelişen yapay zeka trendlerine hızlı bir şekilde uyum sağlaması zor olabilir. Özellikle popüler yapay zeka kütüphaneleri ve çözümleri başlangıçta diğer dillere daha hızlı entegre edilebilir.</p>",
+                "possible_applications":[
+
+                    "Java ile Chatbot Geliştirme -> OpenNLP veya Apache OpenNLU gibi doğal dil işleme kütüphaneleri kullanarak Java ile sohbet botları oluşturabilirsiniz. Bu botlar, kullanıcılarla doğal dilde etkileşimde bulunabilir ve soruları yanıtlayabilir.",
+                    "Java ile Veri Madenciliği ve Analizi -> Weka gibi kütüphanelerle Java üzerinde veri madenciliği uygulamaları geliştirebilirsiniz. Veri madenciliği, büyük veri setlerinden bilgi çıkarma ve analiz yapma süreçlerini içerir.",
+                    "Java ile Oyun Yapay Zekası -> Java tabanlı oyunlarda yapay zeka kontrolü ekleyebilirsiniz. Örneğin, oyun karakterlerinin stratejilerini ve hareketlerini belirleyen bir yapay zeka geliştirebilirsiniz.",
+                    "Java ile Makine Öğrenimi -> Weka ve Apache OpenNLP gibi kütüphaneleri kullanarak Java ile sınıflandırma, regresyon veya kümeleme gibi makine öğrenimi uygulamaları geliştirebilirsiniz.",
+                    "Java ile Görüntü İşleme -> JavaCV veya BoofCV gibi kütüphaneleri kullanarak görüntü işleme uygulamaları geliştirebilirsiniz. Bu uygulamalar, nesne tanıma, yüz tanıma veya görüntü sınıflandırma gibi özellikler içerebilir.",
+                    "Java ile Ses Tanıma -> CMU Sphinx veya MaryTTS gibi Java tabanlı kütüphaneleri kullanarak ses tanıma ve metinden sese dönüştürme uygulamaları geliştirebilirsiniz.",
+                    "Java ile Genetik Algoritmalar -> JGAP gibi Java kütüphaneleri ile genetik algoritmalar ve evrimsel hesaplama uygulamaları geliştirebilirsiniz. Bu, optimizasyon veya problem çözme konularında kullanılabilir.",
+                    "Java ile Hasta Teşhisi ve Sağlık Verileri Analizi -> Java ile tıbbi görüntü işleme ve veri analizi uygulamaları geliştirebilirsiniz. Örneğin, radyolojik görüntülerden hastalıkları teşhis etmek için bir uygulama.",
+                    "Java ile Robot Kontrolü ve Yapay Zeka -> LeJOS gibi Java tabanlı kütüphaneleri kullanarak robot kontrolü ve yapay zeka uygulamaları geliştirebilirsiniz. Bu, robotların çevresel algılama ve hareket planlama yeteneklerini içerebilir.",
+                    "Java ile İnternet of Things (IoT) ve Akıllı Ev Uygulamaları -> Java ile IoT cihazlarını ve akıllı ev uygulamalarını kontrol etmek ve optimize etmek için yapay zeka kullanabilirsiniz. Örneğin, enerji verimliliği için akıllı bir termostat uygulaması."
+                ]
+            },
+            {
+                "name": "C++",
+                "info": "Hız ve performans gerektiren uygulamalarda C++ tercih edilebilir. TensorFlow ve OpenCV gibi kütüphaneler, C++ desteği sunar.",
+                "advantage": "<p><strong>Platform Bağımsızlık:</strong> Java, write once, run anywhere prensibi üzerine kurulu olduğu için platform bağımsızdır. Bu, Java ile geliştirilen uygulamaların farklı işletim sistemlerinde çalışabilir olduğu anlamına gelir.</p>\n\n<p><strong>Geniş Kütüphane Desteği:</strong> Java, zengin bir kütüphane ekosistemine sahiptir. Bu, yapay zeka uygulamalarında kullanılabilecek çeşitli araçların ve çözümlerin bulunmasına olanak tanır.</p>\n\n<p><strong>Nesne Yönelimli Programlama (OOP):</strong> Java, nesne yönelimli programlamanın temel prensiplerine uygun bir dil olarak tasarlanmıştır. Bu, büyük ve karmaşık yapay zeka projelerini daha organize ve sürdürülebilir hale getirebilir.</p>\n\n<p><strong>Gelişmiş Güvenlik:</strong> Java, güvenlik konularına önem veren bir dil olarak bilinir. Güvenlik konusundaki önlemler, zararlı yazılımların engellenmesine yardımcı olabilir.</p>",
+                "disadvantage": "<p><strong>Karmaşıklık:</strong> C++, öğrenilmesi ve kullanılması zor bir dil olabilir. Yüksek derecede kontrol sağlamak, aynı zamanda daha fazla karmaşıklık getirebilir.</p>\n\n<p><strong>Hafıza Yönetimi:</strong> C++, bellek yönetimini geliştiricinin sorumluluğuna bırakır. Bu, hatalı bellek kullanımına ve sızıntılara yol açabilir.</p>\n\n<p><strong>Hızlı Prototipleme Zorluğu:</strong> C++, hızlı prototipleme ve geliştirme sürecini diğer dillere göre daha zor hale getirebilir.</p>\n\n<p><strong>Taşınabilirlik Sorunları:</strong> C++, farklı platformlarda uygulamaların taşınabilirliği konusunda sorunlar yaşayabilir. C++ kodları genellikle platforma özgü olabilir.</p>\n\n<p><strong>Güvenlik Sorunları:</strong> Bellek yönetimi gibi konularda yapılan hatalar, güvenlik açıklarına neden olabilir. Hatalı kullanım durumlarında güvenlik sorunları ortaya çıkabilir.</p>",
+                "possible_applications":[
+                    
+                    "C++ ile Görüntü İşleme -> OpenCV gibi kütüphaneleri kullanarak nesne tanıma, yüz tanıma, ve hareket algılama gibi görüntü işleme uygulamaları geliştirebilirsiniz.",
+                    "C++ ile Oyun Yapay Zekası -> Oyunlarda yapay zeka kontrolü ekleyebilirsiniz. Oyun karakterlerinin stratejilerini, düşman davranışlarını ve oyun içi kararları belirleyen bir yapay zeka geliştirebilirsiniz.",
+                    "C++ ile Genetik Algoritmalar -> Evrimsel hesaplama ve genetik algoritmaları uygulamak için C++ kullanabilirsiniz. Bu, optimizasyon ve problem çözme uygulamalarını içerebilir.",
+                    "C++ ile Makine Öğrenimi -> Dlib, mlpack, veya Shark gibi C++ kütüphaneleri kullanarak sınıflandırma, regresyon ve kümeleme gibi makine öğrenimi uygulamaları geliştirebilirsiniz.",
+                    "C++ ile Robot Kontrolü -> Robotların hareket planlaması, çevresel algılama ve otomatik kontrolünü sağlamak için C++ kullanabilirsiniz. Özellikle robotik uygulamalar için hareket planlama algoritmaları geliştirebilirsiniz.",
+                    "C++ ile Ses İşleme -> Sesli komutları tanıma veya sesli cevaplar üretme gibi ses işleme uygulamalarını C++ ile geliştirebilirsiniz. Örneğin, Google Speech API veya CMU Sphinx kullanabilirsiniz.",
+                    "C++ ile Yapay Zeka Tabanlı Strateji Oyunları -> C++ kullanarak yapay zeka tabanlı strateji oyunları geliştirebilirsiniz. Bu tür oyunlarda yapay zeka, düşman stratejileri ve oyunun dinamiklerini yönetir.",
+                    "C++ ile Bilgisayar Grafikleri ve Yapay Zeka Entegrasyonu -> Bilgisayar grafikleri ve yapay zeka entegrasyonu için C++ kullanabilirsiniz. Örneğin, oyunlarda yapay zeka tabanlı karakterlerin grafiksel olarak etkileşimde bulunduğu uygulamalar.",
+                    "C++ ile Veri Analizi -> Büyük veri setleri üzerinde hızlı veri analizi ve işleme uygulamaları geliştirebilirsiniz. C++'ın performans avantajları, bu tür uygulamalarda önemlidir.",
+                    "C++ ile Hasta Teşhisi ve Tıbbi Görüntü İşleme -> C++ kullanarak tıbbi görüntülerden hastalıkları teşhis etmek için yapay zeka uygulamaları geliştirebilirsiniz. Örneğin, MRI veya CT taramalarındaki anormallikleri tespit eden bir uygulama."
+                ]
+            }
+
+        ],
+        "salary": [
+            {
+                "personalSalaryCount": "21 kişinin paylaştığı maaş verilerine göre hesaplanmıştır."
+            },
+            {
+                "price": "39.300₺",
+                "type": "EN DÜŞÜK",
+                "period": "(Aylık)"
+            },
+            {
+                "price": "137.500₺",
+                "type": "EN YÜKSEK",
+                "period": "(Aylık)"
+            },
+            {
+                "price": "49.200₺",
                 "type": "Ortalama Maaş",
                 "period": "(Aylık)"
             }
