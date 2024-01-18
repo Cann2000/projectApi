@@ -25,6 +25,10 @@
         {
             "name": "Web Geliştiriciliği",
             "imageUrl": "https://raw.githubusercontent.com/Cann2000/projectApi/main/pictures/web.png"
+        },
+        {
+            "name": "Yapay Zeka Geliştiriciliği",
+            "imageUrl": "https://raw.githubusercontent.com/Cann2000/projectApi/main/pictures/ai.png"
         }
     ],
     "events": [
