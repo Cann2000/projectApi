@@ -370,7 +370,7 @@
             }
         ]
     },
-    "AI":{
+    "ai":{
         "languages":[
             {
                 "name": "Python",
