@@ -367,14 +367,13 @@
         ]
     },
     "AI":{
-
         "languages":[
-
             {
                 "name": "Python",
                 "info": "Yapay zeka ve makine öğrenimi uygulamaları için en yaygın kullanılan dil Python'dur. TensorFlow, PyTorch, scikit-learn, Keras gibi önemli kütüphaneler ve çerçeveler Python ile entegre bir şekilde çalışır.",
                 "advantage": "<p><strong>Geniş Kütüphane Desteği:</strong> Python, zengin bir kütüphane ekosistemine sahiptir. TensorFlow, Keras, PyTorch, SciKit-Learn, NLTK, OpenCV gibi kütüphaneler sayesinde çeşitli yapay zeka görevleri için hazır çözümler bulunabilir.</p>\n\n<p><strong>Topluluk Desteği:</strong> Python, geniş bir geliştirici topluluğuna sahiptir. Bu, sorunlarla karşılaşıldığında veya yardıma ihtiyaç duyulduğunda daha kolay destek alınabileceği anlamına gelir.</p>\n\n<p><strong>Veri Bilimi Entegrasyonu:</strong> Python, veri bilimi ve yapay zeka alanları arasındaki entegrasyonu kolaylaştırır. Pandas, NumPy gibi kütüphaneler, veri manipülasyonu ve analizi için güçlü araçlar sunar.</p>\n\n<p><strong>Kolay Öğrenme Eğrisi:</strong> Python, açık ve anlaşılır bir sözdizimine sahiptir. Bu, yeni başlayanların dilin temellerini hızlı bir şekilde öğrenmelerini sağlar.</p>\n\n<p><strong>Çok Platform Desteği:</strong> Python, çeşitli işletim sistemlerinde çalışabilir. Bu, farklı platformlarda uygulamaların kolayca taşınabilir olmasını sağlar.</p>",
                 "disadvantage": "<p><strong>Performans:</strong> Python, C veya C++ gibi dillere göre daha yavaşdır. Özellikle büyük veri setleri veya yoğun hesaplama gerektiren uygulamalarda performans sorunları ortaya çıkabilir.</p>\n\n<p><strong>Mobilitet Sorunları:</strong> Python uygulamalarının taşınabilirliği konusunda sorunlar yaşanabilir. Özellikle Python 2'den Python 3'e geçiş sürecinde bazı eski kütüphaneler ve kodlar uyumsuzluklarla karşılaşabilir.</p>\n\n<p><strong>Kısıtlı Mobil Desteği:</strong> Mobil uygulama geliştirmek isteyenler için Python'ın doğrudan destek sağlamayan bir dil olması bir dezavantajdır.</p>\n\n<p><strong>Güvenlik Konuları:</strong> Python, C ve C++ gibi dillere kıyasla daha yüksek seviyede bir dil olduğu için güvenlik konularında daha hassas olabilir. Ancak, bu daha çok uygulama koduna ve geliştirici uygulamalarına bağlıdır.</p>",
+                "imageUrl": "https://raw.githubusercontent.com/Cann2000/projectApi/main/pictures/python.png",
                 "possible_applications":[
 
                     "Görüntü Tanıma -> Nesne tanıma, yüz tanıma, ve görüntü sınıflandırma uygulamaları. Örneğin, TensorFlow ve Keras gibi kütüphanelerle evrişimli sinir ağları (CNN) kullanarak nesne tanıma modeli geliştirebilirsiniz.",
@@ -394,6 +393,7 @@
                 "info": "Java, geniş bir endüstri tarafından kullanılan bir dil olup, büyük ölçekli uygulamalarda tercih edilebilir. Deeplearning4j gibi kütüphaneler, Java'yı yapay zeka uygulamaları için uygun hale getirir.",
                 "advantage": "<p><strong>Platform Bağımsızlık:</strong> Java, write once, run anywhere prensibi üzerine kurulu olduğu için platform bağımsızdır. Bu, Java ile geliştirilen uygulamaların farklı işletim sistemlerinde çalışabilir olduğu anlamına gelir.</p>\n\n<p><strong>Geniş Kütüphane Desteği:</strong> Java, zengin bir kütüphane ekosistemine sahiptir. Bu, yapay zeka uygulamalarında kullanılabilecek çeşitli araçların ve çözümlerin bulunmasına olanak tanır.</p>\n\n<p><strong>Nesne Yönelimli Programlama (OOP):</strong> Java, nesne yönelimli programlamanın temel prensiplerine uygun bir dil olarak tasarlanmıştır. Bu, büyük ve karmaşık yapay zeka projelerini daha organize ve sürdürülebilir hale getirebilir.</p>\n\n<p><strong>Gelişmiş Güvenlik:</strong> Java, güvenlik konularına önem veren bir dil olarak bilinir. Güvenlik konusundaki önlemler, zararlı yazılımların engellenmesine yardımcı olabilir.</p>",
                 "disadvantage": "<p><strong>Düşük Seviyeli Kontrol:</strong> Java, düşük seviyeli donanım kontrolleri konusunda C veya C++ gibi dillere göre daha sınırlıdır. Bu, özellikle performansı kritik olan uygulamalarda bir dezavantaj olabilir.</p>\n\n<p><strong>Bağlam Yönetimi:</strong> Bazı durumlarda, Java uygulamalarının düşük seviyeli bağlam yönetimi ve bellek kontrolü konusunda eleştirilere maruz kalabilir.</p>\n\n<p><strong>Performans:</strong> Java, doğrudan derlenen diller olan C veya C++ gibi dillere göre daha yavaş olabilir. Bu, özellikle yoğun hesaplama gerektiren yapay zeka uygulamalarında performans sorunlarına neden olabilir.</p>\n\n<p><strong>Yeni Trendlere Hızlı Uyum:</strong> Bazı durumlarda, Java'nın yeni ve hızla gelişen yapay zeka trendlerine hızlı bir şekilde uyum sağlaması zor olabilir. Özellikle popüler yapay zeka kütüphaneleri ve çözümleri başlangıçta diğer dillere daha hızlı entegre edilebilir.</p>",
+                "imageUrl": "https://raw.githubusercontent.com/Cann2000/projectApi/main/pictures/java.png",
                 "possible_applications":[
 
                     "Java ile Chatbot Geliştirme -> OpenNLP veya Apache OpenNLU gibi doğal dil işleme kütüphaneleri kullanarak Java ile sohbet botları oluşturabilirsiniz. Bu botlar, kullanıcılarla doğal dilde etkileşimde bulunabilir ve soruları yanıtlayabilir.",
@@ -413,6 +413,7 @@
                 "info": "Hız ve performans gerektiren uygulamalarda C++ tercih edilebilir. TensorFlow ve OpenCV gibi kütüphaneler, C++ desteği sunar.",
                 "advantage": "<p><strong>Platform Bağımsızlık:</strong> Java, write once, run anywhere prensibi üzerine kurulu olduğu için platform bağımsızdır. Bu, Java ile geliştirilen uygulamaların farklı işletim sistemlerinde çalışabilir olduğu anlamına gelir.</p>\n\n<p><strong>Geniş Kütüphane Desteği:</strong> Java, zengin bir kütüphane ekosistemine sahiptir. Bu, yapay zeka uygulamalarında kullanılabilecek çeşitli araçların ve çözümlerin bulunmasına olanak tanır.</p>\n\n<p><strong>Nesne Yönelimli Programlama (OOP):</strong> Java, nesne yönelimli programlamanın temel prensiplerine uygun bir dil olarak tasarlanmıştır. Bu, büyük ve karmaşık yapay zeka projelerini daha organize ve sürdürülebilir hale getirebilir.</p>\n\n<p><strong>Gelişmiş Güvenlik:</strong> Java, güvenlik konularına önem veren bir dil olarak bilinir. Güvenlik konusundaki önlemler, zararlı yazılımların engellenmesine yardımcı olabilir.</p>",
                 "disadvantage": "<p><strong>Karmaşıklık:</strong> C++, öğrenilmesi ve kullanılması zor bir dil olabilir. Yüksek derecede kontrol sağlamak, aynı zamanda daha fazla karmaşıklık getirebilir.</p>\n\n<p><strong>Hafıza Yönetimi:</strong> C++, bellek yönetimini geliştiricinin sorumluluğuna bırakır. Bu, hatalı bellek kullanımına ve sızıntılara yol açabilir.</p>\n\n<p><strong>Hızlı Prototipleme Zorluğu:</strong> C++, hızlı prototipleme ve geliştirme sürecini diğer dillere göre daha zor hale getirebilir.</p>\n\n<p><strong>Taşınabilirlik Sorunları:</strong> C++, farklı platformlarda uygulamaların taşınabilirliği konusunda sorunlar yaşayabilir. C++ kodları genellikle platforma özgü olabilir.</p>\n\n<p><strong>Güvenlik Sorunları:</strong> Bellek yönetimi gibi konularda yapılan hatalar, güvenlik açıklarına neden olabilir. Hatalı kullanım durumlarında güvenlik sorunları ortaya çıkabilir.</p>",
+                "imageUrl": "https://raw.githubusercontent.com/Cann2000/projectApi/main/pictures/cplusplus.png",
                 "possible_applications":[
                     
                     "C++ ile Görüntü İşleme -> OpenCV gibi kütüphaneleri kullanarak nesne tanıma, yüz tanıma, ve hareket algılama gibi görüntü işleme uygulamaları geliştirebilirsiniz.",
@@ -427,7 +428,6 @@
                     "C++ ile Hasta Teşhisi ve Tıbbi Görüntü İşleme -> C++ kullanarak tıbbi görüntülerden hastalıkları teşhis etmek için yapay zeka uygulamaları geliştirebilirsiniz. Örneğin, MRI veya CT taramalarındaki anormallikleri tespit eden bir uygulama."
                 ]
             }
-
         ],
         "salary": [
             {
