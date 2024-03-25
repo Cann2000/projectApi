@@ -29,6 +29,10 @@
         {
             "name": "Yapay Zeka Geliştiriciliği",
             "imageUrl": "https://raw.githubusercontent.com/Cann2000/projectApi/main/pictures/ai.png"
+        },
+        {
+            "name": "Siber Güvenlik",
+            "imageUrl": "https://raw.githubusercontent.com/Cann2000/projectApi/main/pictures/cybersecurity.png"
         }
     ],
     "events": [
