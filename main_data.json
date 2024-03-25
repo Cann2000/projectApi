@@ -480,7 +480,7 @@
     },
     "data_scientist": {
 
-        "language": [
+        "languages": [
             {
                 "name": "Python",
                 "info": "Veri bilimi ve büyük veri analizi için en popüler dildir. Geniş kütüphane desteği (numpy, pandas, scikit-learn, TensorFlow, PyTorch vb.) sayesinde veri manipülasyonu, makine öğrenmesi, derin öğrenme ve veri görselleştirme gibi birçok alanda kullanılır.",
