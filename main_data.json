@@ -33,6 +33,10 @@
         {
             "name": "Siber Güvenlik",
             "imageUrl": "https://raw.githubusercontent.com/Cann2000/projectApi/main/pictures/cybersecurity.png"
+        },
+        {
+            "name": "Veri Bilimi",
+            "imageUrl": "https://raw.githubusercontent.com/Cann2000/projectApi/main/pictures/data_science.png"
         }
     ],
     "events": [
