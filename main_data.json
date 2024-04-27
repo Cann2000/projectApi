@@ -1,7 +1,7 @@
 {
     "version_name": "1.1",
 
-    "blogs":[
+    "blogs": [
         {
             "imageUrl": "https://raw.githubusercontent.com/Cann2000/projectApi/main/BlogPictures/github.png",
             "link": "https://github.com/"
@@ -120,6 +120,25 @@
                     "RxJava Veya Kotlin Coroutines -> Asenkron işlemleri yönetmek ve reaktif programlama prensiplerini uygulamak için kullanılan kütüphanelerdir.",
                     "JUnit VE Espresso -> Android uygulama testleri için kullanılan popüler test kütüphaneleridir.",
                     "Proguard Veya R8 -> Android uygulamalarını küçültmek, optimize etmek ve güvenli hale getirmek için kullanılan araçlardır. ProGuard daha önce yaygın olarak kullanılmıştır, ancak R8 artık daha yaygın olarak tercih edilen bir araçtır."
+                ]
+            },
+            {
+                "name": "Swift",
+                "info": "Swift, Apple tarafından geliştirilen ve özellikle iOS, macOS, watchOS ve tvOS gibi Apple platformları için tasarlanmış bir programlama dilidir. Swift, Objective-C'nin yerini almak üzere 2014 yılında tanıtılmıştır ve modern, güvenli, hızlı ve interaktif bir dil olarak öne çıkmaktadır.",
+                "advantage": "<p><strong>Güvenlik ve Performans:</strong> Swift, güvenli bir programlama dili olarak tasarlanmıştır. Değişkenlerin ve dizilerin kullanımı sırasında olası hataları önlemek için dilin yapıları ve sözdizimi özenle hazırlanmıştır. Ayrıca, Swift'in performansı da oldukça yüksektir, bu da uygulamaların daha hızlı çalışmasını sağlar.</p>\n\n<p><strong>Kolay Öğrenme ve Kullanım:</strong> Swift, anlaşılması kolay bir sözdizimine sahiptir. Bu, yeni başlayanlar için dilin öğrenilmesini kolaylaştırır ve geliştiricilerin daha hızlı bir şekilde üretken olmalarını sağlar.</p>\n\n<p><strong>Modern Özellikler:</strong> Swift, modern programlama dillerinin sunduğu birçok özelliği bünyesinde barındırır. Bunlar arasında tip güvenliği, örüntü eşleme, kapanışlar (closures), ve güçlü tip çıkarımı gibi özellikler bulunur.</p>\n\n<p><strong>Apple Platformları ile Entegrasyon:</strong> Swift, Apple'ın tüm platformlarında (iOS, macOS, watchOS, tvOS) desteklenir ve bu platformlarla mükemmel bir şekilde entegre olabilir. Bu da geliştiricilere geniş bir hedef kitlesine hitap etme imkanı sunar.</p>\n\n<p><strong>Gelişmiş Hata Ayıklama ve Araçlar:</strong> Xcode, Swift için geliştirilen entegre geliştirme ortamıdır ve gelişmiş hata ayıklama ve kod tamamlama gibi araçlarla gelir. Bu da geliştiricilerin daha verimli çalışmalarını sağlar.</p>\n\n<p><strong>Açık Kaynak ve Topluluk Desteği:</strong> Swift, açık kaynaklı bir dildir ve geniş bir geliştirici topluluğu tarafından desteklenmektedir. Bu da dilin sürekli olarak gelişmesine ve yeni özelliklerin eklenmesine olanak tanır.</p>",
+                "disadvantage": "<p><strong>Geçişkenlik ve Sürekli Değişim:</strong> Swift, gelişmekte olan bir dil olduğundan, zaman zaman dilde değişiklikler ve güncellemeler olabilir. Bu durum, mevcut kodların geçerliliğini etkileyebilir ve geliştiriciler için uyum sağlama zorluğu yaratabilir.</p>\n\n<p><strong>Belirsizlikler:</strong> Swift'in hala gelişmekte olan bir dil olması, bazı konularda belirsizlikler yaratabilir. Özellikle, dilin geleceği hakkında net bir yol haritası olmaması bazı geliştiriciler için endişe kaynağı olabilir.</p>\n\n<p><strong>Performans Sorunları:</strong> Her ne kadar Swift genellikle yüksek performanslı bir dil olarak kabul edilse de, bazı durumlarda Objective-C'ye göre daha yavaş çalışabilir. Özellikle, bazı karmaşık operasyonlar veya derleme süreçleri performans sorunlarına neden olabilir.</p>\n\n<p><strong>Dokümantasyon ve Kaynak Sıkıntısı:</strong> Swift'in henüz genç bir dil olması, kapsamlı ve güncel dokümantasyonun eksikliğine neden olabilir. Bu durum, özellikle yeni başlayanlar için öğrenme sürecini zorlaştırabilir.</p>\n\n<p><strong>Platform Bağımlılığı:</strong> Swift, sadece Apple'ın platformlarında (iOS, macOS, watchOS, tvOS) desteklenmektedir. Bu da, Swift kullanarak geliştirilen uygulamaların diğer platformlara (örneğin, Android) taşınmasını zorlaştırabilir.</p>",
+                "projects": "Swift, iOS uygulamaları geliştirmek için Apple'ın önerdiği ve yaygın olarak kullanılan bir dil olduğundan, birçok popüler uygulama Swift kullanılarak geliştirilmiştir. İşte bunlardan sace birkaçı:\nInstagram: Sosyal medya platformu Instagram, iOS uygulamasını Swift kullanarak geliştirmiştir.Lyft: Lyft, Swift'i kullanarak iOS platformunda çalışan popüler bir yolculuk paylaşım uygulamasıdır.LinkedIn: LinkedIn, iOS uygulamasını Swift kullanarak geliştirmiştir.Tinder: Arkadaşlık ve flört uygulaması Tinder, iOS uygulamasını Swift ile geliştirmiştir.Pinterest: Görsel arama ve paylaşım platformu Pinterest, iOS uygulamasını Swift kullanarak oluşturmuştur.",
+                "videoLink": "https://www.udemy.com/courses/search/?src=ukw&q=swift",
+                "imageUrl": "https://raw.githubusercontent.com/Cann2000/projectApi/main/pictures/swift.png",
+                "library": [
+                    "Alamofire -> HTTP ağ istekleri için kullanılan basit ve güçlü bir kütüphane.",
+                    "SwiftyJSON -> JSON verileri işlemek için kullanılan kolay ve güvenilir bir kütüphane.",
+                    "Kingfisher -> Görselleri indirmek, önbelleğe almak ve göstermek için kullanılan hızlı ve hafif bir kütüphane.",
+                    "SnapKit -> Auto Layout'u daha okunabilir ve kullanımı kolay hale getiren bir DSL (Domain Specific Language) kütüphanesi.",
+                    "Realm -> Veritabanı işlemleri için hızlı ve kullanımı kolay bir kütüphane.",
+                    "Firebase -> Firebase platformunun sunduğu çeşitli hizmetleri entegre etmek için kullanılan resmi Firebase SDK'ları.",
+                    "RxSwift -> Asenkron ve olay tabanlı programlamayı destekleyen bir kütüphane.",
+                    "SwiftLint -> Swift kodunuzu standartlara uygun hale getirmenize yardımcı olan bir kod denetleme aracı."
                 ]
             },
             {
