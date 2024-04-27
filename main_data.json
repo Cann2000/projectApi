@@ -99,7 +99,7 @@
             "imageUrl": "https://github.com/Cann2000/projectApi/blob/main/event_pictures/8.jpg?raw=true"
         }
     ],
-    "android": {
+    "mobile": {
         "languages": [
             {
                 "name": "Kotlin & Java",
