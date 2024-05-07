@@ -47,42 +47,42 @@
             "info": "Kariyerine PiA Group'ta başlamaya ne dersin?",
             "application_deadline": "Son Başvuru: 20 Mayıs",
             "link": "https://coderspace.io/etkinlikler/talents-in-action/",
-            "imageUrl": "https://github.com/Cann2000/projectApi/blob/main/event_pictures/1.jpg?raw=true"
+            "imageUrl": "https://raw.githubusercontent.com/Cann2000/projectApi/main/event_pictures/1.png"
         },
         {
             "name": "Intellicamp Data Summer Camp",
             "info": "Intellica Yaz Kampı",
             "application_deadline": "Son Başvuru: 20 Mayıs",
             "link": "https://coderspace.io/etkinlikler/intellica-data-summer-camp/",
-            "imageUrl": "https://github.com/Cann2000/projectApi/blob/main/event_pictures/2.jpg?raw=true"
+            "imageUrl": "https://raw.githubusercontent.com/Cann2000/projectApi/main/event_pictures/2.png"
         },
         {
             "name": "BtcTurk | Teknoloji Senior Developer Hiring Day",
             "info": "BtcTurk'te inovatif ve heyecan verici bir çalışma ortamı seni bekliyor!",
             "application_deadline": "Son Başvuru: 23 Mayıs",
             "link": "https://coderspace.io/etkinlikler/btcturk-hiring-day/",
-            "imageUrl": "https://github.com/Cann2000/projectApi/blob/main/event_pictures/3.jpg?raw=true"
+            "imageUrl": "https://raw.githubusercontent.com/Cann2000/projectApi/main/event_pictures/3.png"
         },
         {
             "name": "Agile Development Day - 2024",
             "info": "Agile Development'ı Uzmanlarından Dinleme Fırsatı Seni Bekliyor!",
             "application_deadline": "Son Başvuru: 28 Mayıs",
             "link": "https://coderspace.io/etkinlikler/agile-development-day-2024/",
-            "imageUrl": "https://github.com/Cann2000/projectApi/blob/main/event_pictures/4.jpg?raw=true"
+            "imageUrl": "https://raw.githubusercontent.com/Cann2000/projectApi/main/event_pictures/4.png"
         },
         {
             "name": "Architecht TechTalent 2024",
             "info": "Kariyerine anlamlı bir başlangıç yapmak istiyorsan, doğru yerdesin!",
             "application_deadline": "Son Başvuru: 30 Mayıs",
             "link": "https://coderspace.io/etkinlikler/architecht-techtalent-2024/",
-            "imageUrl": "https://github.com/Cann2000/projectApi/blob/main/event_pictures/5.jpg?raw=true"
+            "imageUrl": "https://raw.githubusercontent.com/Cann2000/projectApi/main/event_pictures/5.png"
         },
         {
             "name": "Softtech Yetenek Kuşağı 2024",
             "info": "Kariyer yolculuğuna Softtech'le başla, genç yeteneklere özel Yetenek Kuşağı'nı keşfet!",
             "application_deadline": "Son Başvuru: 31 Mayıs",
             "link": "https://coderspace.io/etkinlikler/softtech-yetenek-kusagi-2024/",
-            "imageUrl": "https://github.com/Cann2000/projectApi/blob/main/event_pictures/6.jpg?raw=true"
+            "imageUrl": "https://raw.githubusercontent.com/Cann2000/projectApi/main/event_pictures/6.png"
         }
     ],
     "mobile": {
