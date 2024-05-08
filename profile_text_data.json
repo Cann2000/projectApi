@@ -57,6 +57,7 @@
     "departments": [
         { "name": "Yazılım Mühendisliği" },
         { "name": "Bilgisayar Mühendisliği" },
+        { "name": "Yönetim Bilişim Sistemleri" },
         { "name": "Bilgisayar Bilimleri" },
         { "name": "Bilgisayar Programcılığı" },
         { "name": "Bilgisayar Teknolojisi ve Bilişim Sistemleri" },
