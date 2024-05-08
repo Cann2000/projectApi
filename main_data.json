@@ -296,7 +296,7 @@
                 },
                 {
                     "name": "TypeScript",
-                    "info": " TypeScript, JavaScript'e bir üst küme olarak kabul edilir ve tür belirleme yetenekleri sunar. Angular gibi bazı çerçeveler TypeScript'i tercih eder.",
+                    "info": "TypeScript, JavaScript'e bir üst küme olarak kabul edilir ve tür belirleme yetenekleri sunar. Angular gibi bazı çerçeveler TypeScript'i tercih eder.",
                     "videoLink": "https://www.udemy.com/courses/search/?src=ukw&q=typescript",
                     "imageUrl": "https://raw.githubusercontent.com/Cann2000/projectApi/main/pictures/typescript.png"
                 }
